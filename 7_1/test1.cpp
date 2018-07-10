@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+enum time
+{
+    first,second,third,forth,fifth
+};
+
+int main()
+{
+    enum time a = fifth;
+    if (a == fifth)
+    {
+        cout << "Successed!" << endl;
+    }
+    return 0; 
+}
