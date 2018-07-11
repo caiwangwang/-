@@ -1,0 +1,15 @@
+<6>[135446.563118,6] mdss_dsi_on[0]+.
+<6>[135446.610106,4] mdss_dsi_panel_on[0]+.
+<6>[135446.711492,4] mdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+<6>[135446.746916,4] mdss_fb_set_hw_param: CABC = MV
+<6>[135446.778509,6] Report pwrkey press event at: 2018-07-07 18:08:12 UTC
+<6>[135446.914127,6] mdss_fb_set_hw_param: CABC = UI
+<6>[135446.933869,6] Report pwrkey release event at: 2018-07-07 18:08:12 UTC
+<7>[135448.069920,7] Requested rate: 48000, sample size: 16, physical size: 16
+<7>[135448.069932,7] mixer profile:container profile = [0:0]
+<7>[135448.072380,7] tfa98xx 2-0034: tfa_dev_start success (0)
+<4>[135448.374305,0] ->handle_irq():  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+<4>[135448.374332,0] ->action():           (null)
+<4>[135448.374339,0]  IRQ_NOREQUEST set
+<31>[135449.702294,7] logd: logdr: UID=10044 GID=10044 PID=5743 n tail=0 logMask=4 pid=0 start=0ns timeout=0ns
+cat: *:E: No such file or directory
