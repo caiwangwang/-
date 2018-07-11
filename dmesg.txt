@@ -1,0 +1,1998 @@
+[32m[124150.165851] [0mCPU5 is up
+[32m[124150.166479] [0mDetected VIPT I-cache on CPU6
+[32m[124150.166582] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124150.167484] [0mCPU6 is up
+[32m[124150.168110] [0mDetected VIPT I-cache on CPU7
+[32m[124150.168213] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124150.169190] [0mCPU7 is up
+[32m[124150.171712] [33mPM[0m: noirq resume of devices complete after 2.346 msecs
+[32m[124150.185168] [33mPM[0m: early resume of devices complete after 11.558 msecs
+[32m[124150.197437] [33mgpio_keys_gpio_report_event[0m: 6 callbacks suppressed
+[32m[124150.197458] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124150.198210] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124150.243098] [33mPM[0m: resume of devices complete after 57.906 msecs
+[32m[124150.247181] [33mPM[0m: Finishing wakeup.
+[32m[124150.247199] [0mRestarting tasks ... done.
+[32m[124150.258934] [33mPM[0m: suspend exit 2018-07-07 13:09:38.317504741 UTC
+[32m[124150.360579] [33mPM[0m: suspend entry 2018-07-07 13:09:38.419151418 UTC
+[32m[124150.360601] [33mPM[0m: Preparing system for mem sleep
+[32m[124150.361805] [0mFreezing user space processes ... (elapsed 0.007 seconds) done.
+[32m[124150.369828] [0mFreezing remaining freezable tasks ... (elapsed 0.004 seconds) done.
+[32m[124150.374319] [33mPM[0m: Entering mem sleep
+[32m[124150.374329] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124150.379590] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124150.403536] [33mPM[0m: suspend of devices complete after 27.527 msecs
+[32m[124150.406795] [33mPM[0m: late suspend of devices complete after 3.247 msecs
+[32m[124150.411442] [33mPM[0m: noirq suspend of devices complete after 4.640 msecs
+[32m[124150.411456] [0mDisabling non-boot CPUs ...
+[32m[124150.427537] [33msuspend ns[0m:  124150427521966\x09suspend cycles:    2604823584919
+[32m[124150.427521] [33mresume cycles[0m:    2605970425765
+[32m[124150.429507] [0mEnabling non-boot CPUs ...
+[32m[124150.429959] [0mDetected VIPT I-cache on CPU1
+[32m[124150.430050] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124150.430623] [0mCPU1 is up
+[32m[124150.431098] [0mDetected VIPT I-cache on CPU2
+[32m[124150.431174] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124150.431585] [0mCPU2 is up
+[32m[124150.432022] [0mDetected VIPT I-cache on CPU3
+[32m[124150.432094] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124150.432656] [0mCPU3 is up
+[32m[124150.433156] [0mDetected VIPT I-cache on CPU4
+[32m[124150.433249] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124150.433700] [0mCPU4 is up
+[32m[124150.434220] [0mDetected VIPT I-cache on CPU5
+[32m[124150.434287] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124150.434756] [0mCPU5 is up
+[32m[124150.435205] [0mDetected VIPT I-cache on CPU6
+[32m[124150.435273] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124150.435750] [0mCPU6 is up
+[32m[124150.436194] [0mDetected VIPT I-cache on CPU7
+[32m[124150.436262] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124150.436785] [0mCPU7 is up
+[32m[124150.438430] [33mPM[0m: noirq resume of devices complete after 1.552 msecs
+[32m[124150.451045] [33mPM[0m: early resume of devices complete after 11.264 msecs
+[32m[124150.462407] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124150.462787] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124150.500278] [33mPM[0m: resume of devices complete after 49.218 msecs
+[32m[124150.502485] [33mPM[0m: Finishing wakeup.
+[32m[124150.502494] [0mRestarting tasks ... done.
+[32m[124150.511234] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124150.511329] [33mPM[0m: suspend exit 2018-07-07 13:10:38.301195316 UTC
+[32m[124150.611681] [33mPM[0m: suspend entry 2018-07-07 13:10:38.401550951 UTC
+[32m[124150.611696] [33mPM[0m: Preparing system for mem sleep
+[32m[124150.612675] [0mFreezing user space processes ... (elapsed 0.006 seconds) done.
+[32m[124150.619468] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124150.623145] [33mPM[0m: Entering mem sleep
+[32m[124150.623153] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124150.627135] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124150.646900] [33mPM[0m: suspend of devices complete after 22.429 msecs
+[32m[124150.648928] [33mPM[0m: late suspend of devices complete after 2.020 msecs
+[32m[124150.652616] [33mPM[0m: noirq suspend of devices complete after 3.681 msecs
+[32m[124150.652625] [0mDisabling non-boot CPUs ...
+[32m[124150.664840] [33msuspend ns[0m:  124150664829310\x09suspend cycles:    2605974982066
+[32m[124150.664829] [33mresume cycles[0m:    2607122553275
+[32m[124150.665279] [0mEnabling non-boot CPUs ...
+[32m[124150.665660] [0mDetected VIPT I-cache on CPU1
+[32m[124150.665733] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124150.666087] [0mCPU1 is up
+[32m[124150.666473] [0mDetected VIPT I-cache on CPU2
+[32m[124150.666534] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124150.666825] [0mCPU2 is up
+[32m[124150.667178] [0mDetected VIPT I-cache on CPU3
+[32m[124150.667235] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124150.667507] [0mCPU3 is up
+[32m[124150.667892] [0mDetected VIPT I-cache on CPU4
+[32m[124150.667965] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124150.668386] [0mCPU4 is up
+[32m[124150.668736] [0mDetected VIPT I-cache on CPU5
+[32m[124150.668790] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124150.669095] [0mCPU5 is up
+[32m[124150.669436] [0mDetected VIPT I-cache on CPU6
+[32m[124150.669491] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124150.669799] [0mCPU6 is up
+[32m[124150.670141] [0mDetected VIPT I-cache on CPU7
+[32m[124150.670195] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124150.670594] [0mCPU7 is up
+[32m[124150.671643] [33mPM[0m: noirq resume of devices complete after 0.991 msecs
+[32m[124150.683154] [33mPM[0m: early resume of devices complete after 10.495 msecs
+[32m[124150.692460] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124150.692731] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124150.732701] [33mPM[0m: resume of devices complete after 49.538 msecs
+[32m[124150.734400] [33mPM[0m: Finishing wakeup.
+[32m[124150.734407] [0mRestarting tasks ... done.
+[32m[124150.742497] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124150.742604] [33mPM[0m: suspend exit 2018-07-07 13:11:38.301801773 UTC
+[32m[124150.842941] [33mPM[0m: suspend entry 2018-07-07 13:11:38.402144335 UTC
+[32m[124150.842956] [33mPM[0m: Preparing system for mem sleep
+[32m[124150.843931] [0mFreezing user space processes ... (elapsed 0.006 seconds) done.
+[32m[124150.850494] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124150.854180] [33mPM[0m: Entering mem sleep
+[32m[124150.854187] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124150.858747] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124150.879759] [33mPM[0m: suspend of devices complete after 24.288 msecs
+[32m[124150.881748] [33mPM[0m: late suspend of devices complete after 1.981 msecs
+[32m[124150.885461] [33mPM[0m: noirq suspend of devices complete after 3.707 msecs
+[32m[124150.885470] [0mDisabling non-boot CPUs ...
+[32m[124150.896995] [33msuspend ns[0m:  124150896983894\x09suspend cycles:    2607127010643
+[32m[124150.896983] [33mresume cycles[0m:    2608274637118
+[32m[124150.898554] [0mEnabling non-boot CPUs ...
+[32m[124150.898921] [0mDetected VIPT I-cache on CPU1
+[32m[124150.898994] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124150.899338] [0mCPU1 is up
+[32m[124150.899714] [0mDetected VIPT I-cache on CPU2
+[32m[124150.899778] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124150.900061] [0mCPU2 is up
+[32m[124150.900418] [0mDetected VIPT I-cache on CPU3
+[32m[124150.900478] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124150.900770] [0mCPU3 is up
+[32m[124150.901171] [0mDetected VIPT I-cache on CPU4
+[32m[124150.901244] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124150.901560] [0mCPU4 is up
+[32m[124150.901912] [0mDetected VIPT I-cache on CPU5
+[32m[124150.901965] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124150.902303] [0mCPU5 is up
+[32m[124150.902654] [0mDetected VIPT I-cache on CPU6
+[32m[124150.902710] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124150.903044] [0mCPU6 is up
+[32m[124150.903404] [0mDetected VIPT I-cache on CPU7
+[32m[124150.903459] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124150.903891] [0mCPU7 is up
+[32m[124150.904999] [33mPM[0m: noirq resume of devices complete after 1.049 msecs
+[32m[124150.916097] [33mPM[0m: early resume of devices complete after 10.034 msecs
+[32m[124150.924707] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124150.925022] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124150.965742] [33mPM[0m: resume of devices complete after 49.633 msecs
+[32m[124150.967424] [33mPM[0m: Finishing wakeup.
+[32m[124150.967431] [0mRestarting tasks ... done.
+[32m[124150.975743] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124150.975858] [33mPM[0m: suspend exit 2018-07-07 13:12:38.307269847 UTC
+[32m[124151.076207] [33mPM[0m: suspend entry 2018-07-07 13:12:38.407622252 UTC
+[32m[124151.076223] [33mPM[0m: Preparing system for mem sleep
+[32m[124151.077261] [0mFreezing user space processes ... (elapsed 0.007 seconds) done.
+[32m[124151.084523] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124151.088365] [33mPM[0m: Entering mem sleep
+[32m[124151.088373] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124151.092866] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124151.113580] [33mPM[0m: suspend of devices complete after 23.843 msecs
+[32m[124151.115945] [33mPM[0m: late suspend of devices complete after 2.356 msecs
+[32m[124151.119607] [33mPM[0m: noirq suspend of devices complete after 3.657 msecs
+[32m[124151.119617] [0mDisabling non-boot CPUs ...
+[32m[124151.143256] [33msuspend ns[0m:  124151143244676\x09suspend cycles:    2608279365325
+[32m[124151.143244] [33mresume cycles[0m:    2608356196430
+[32m[124151.143453] [0mEnabling non-boot CPUs ...
+[32m[124151.143858] [0mDetected VIPT I-cache on CPU1
+[32m[124151.143934] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124151.144286] [0mCPU1 is up
+[32m[124151.144699] [0mDetected VIPT I-cache on CPU2
+[32m[124151.144762] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124151.145073] [0mCPU2 is up
+[32m[124151.145446] [0mDetected VIPT I-cache on CPU3
+[32m[124151.145507] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124151.145788] [0mCPU3 is up
+[32m[124151.146202] [0mDetected VIPT I-cache on CPU4
+[32m[124151.146279] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124151.146714] [0mCPU4 is up
+[32m[124151.147108] [0mDetected VIPT I-cache on CPU5
+[32m[124151.147165] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124151.147492] [0mCPU5 is up
+[32m[124151.147860] [0mDetected VIPT I-cache on CPU6
+[32m[124151.147918] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124151.148250] [0mCPU6 is up
+[32m[124151.148616] [0mDetected VIPT I-cache on CPU7
+[32m[124151.148673] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124151.149052] [0mCPU7 is up
+[32m[124151.150152] [33mPM[0m: noirq resume of devices complete after 1.036 msecs
+[32m[124151.160858] [33mPM[0m: early resume of devices complete after 9.572 msecs
+[32m[124151.170123] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124151.170447] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124151.209437] [33mPM[0m: resume of devices complete after 48.570 msecs
+[32m[124151.211261] [33mPM[0m: Finishing wakeup.
+[32m[124151.211269] [0mRestarting tasks ... done.
+[32m[124151.218247] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124151.218355] [33mPM[0m: suspend exit 2018-07-07 13:12:42.551386588 UTC
+[32m[124161.194846] [33m[09:12:52.527870] [0000025F59A5CD08] [VosRX]  wlan[31m: [E :WDI] WDTS_RxPacketDump RX Data frame is UC
+[32m[124161.194874] [33m[09:12:52.527913] [0000025F59A5D012] [VosRX]  wlan[31m: [E :WDI] WDTS_RxPacketDump: Management subtype:5 SA:44:1e:98:3e:2d:18 DA:30:4b:07:d8:2d:e9
+[32m[124187.835902] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 300 mA, USBC CL 0 mA, DC 900 mA
+[32m[124187.835947] [33msmbchg_heartbeat_work[0m: Step State = NONE, BSW Mode OFF, EB State DISCONN
+[32m[124187.836001] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=255
+[32m[124187.849295] [33mhealthd[0m: battery l=99 v=4363 t=29.5 h=2 st=3 c=9 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124211.270096] [33mPM[0m: suspend entry 2018-07-07 13:13:42.603117101 UTC
+[32m[124211.270140] [33mPM[0m: Preparing system for mem sleep
+[32m[124211.276887] [33mueventd[0m: firmware: loading 'adsp.mdt' for '/devices/virtual/firmware/adsp.mdt'
+[32m[124211.278231] [33mueventd[0m: loading /devices/virtual/firmware/adsp.mdt took 2ms
+[32m[124211.282137] [33mueventd[0m: firmware: loading 'wlan/prima/WCNSS_qcom_cfg.ini' for '/devices/virtual/firmware/wlan!prima!WCNSS_qcom_cfg.ini'
+[32m[124211.284016] [33mueventd[0m: loading /devices/virtual/firmware/wlan!prima!WCNSS_qcom_cfg.ini took 2ms
+[32m[124211.286501] [33mueventd[0m: firmware: loading 'wlan/prima/WCNSS_qcom_wlan_nv.bin' for '/devices/virtual/firmware/wlan!prima!WCNSS_qcom_wlan_nv.bin'
+[32m[124211.287712] [33mueventd[0m: loading /devices/virtual/firmware/wlan!prima!WCNSS_qcom_wlan_nv.bin took 1ms
+[32m[124211.291131] [33mueventd[0m: firmware: loading 'mba.mbn' for '/devices/virtual/firmware/mba.mbn'
+[32m[124211.294355] [33mueventd[0m: loading /devices/virtual/firmware/mba.mbn took 3ms
+[32m[124211.296175] [33mueventd[0m: firmware: loading 'wcnss.mdt' for '/devices/virtual/firmware/wcnss.mdt'
+[32m[124211.297734] [33mueventd[0m: loading /devices/virtual/firmware/wcnss.mdt took 1ms
+[32m[124211.300609] [33mueventd[0m: firmware: loading 'modem.mdt' for '/devices/virtual/firmware/modem.mdt'
+[32m[124211.302357] [33mueventd[0m: loading /devices/virtual/firmware/modem.mdt took 2ms
+[32m[124211.304832] [33mueventd[0m: firmware: loading 'a506_zap.mdt' for '/devices/virtual/firmware/a506_zap.mdt'
+[32m[124211.305740] [33mueventd[0m: loading /devices/virtual/firmware/a506_zap.mdt took 1ms
+[32m[124211.309100] [33mueventd[0m: firmware: loading 'venus.mdt' for '/devices/virtual/firmware/venus.mdt'
+[32m[124211.310021] [33mueventd[0m: loading /devices/virtual/firmware/venus.mdt took 1ms
+[32m[124211.314052] [33mueventd[0m: firmware: loading 'tfa98xx.cnt' for '/devices/virtual/firmware/tfa98xx.cnt'
+[32m[124211.315610] [33mueventd[0m: loading /devices/virtual/firmware/tfa98xx.cnt took 2ms
+[32m[124211.316529] [0mFreezing user space processes ... (elapsed 0.014 seconds) done.
+[32m[124211.330969] [0mFreezing remaining freezable tasks ... (elapsed 0.007 seconds) done.
+[32m[124211.338159] [33mPM[0m: Entering mem sleep
+[32m[124211.338178] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124211.350730] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124211.372349] [33mPM[0m: suspend of devices complete after 30.875 msecs
+[32m[124211.378026] [33mPM[0m: late suspend of devices complete after 5.660 msecs
+[32m[124211.385638] [33mPM[0m: noirq suspend of devices complete after 7.600 msecs
+[32m[124211.385661] [0mDisabling non-boot CPUs ...
+[32m[124211.387481] [33mmigrate_irqs[0m: 18638 callbacks suppressed
+[32m[124211.387489] [0mIRQ7 no longer affine to CPU1
+[32m[124211.387495] [0mIRQ8 no longer affine to CPU1
+[32m[124211.387502] [0mIRQ9 no longer affine to CPU1
+[32m[124211.387508] [0mIRQ10 no longer affine to CPU1
+[32m[124211.387515] [0mIRQ11 no longer affine to CPU1
+[32m[124211.387523] [0mIRQ12 no longer affine to CPU1
+[32m[124211.387530] [0mIRQ13 no longer affine to CPU1
+[32m[124211.387537] [0mIRQ14 no longer affine to CPU1
+[32m[124211.387543] [0mIRQ15 no longer affine to CPU1
+[32m[124211.387550] [0mIRQ16 no longer affine to CPU1
+[32m[124211.416426] [33msuspend ns[0m:  124211416409859\x09suspend cycles:    2609513441198
+[32m[124211.416409] [33mresume cycles[0m:    2610108689303
+[32m[124211.417175] [0mEnabling non-boot CPUs ...
+[32m[124211.417828] [0mDetected VIPT I-cache on CPU1
+[32m[124211.417967] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124211.418786] [0mCPU1 is up
+[32m[124211.419498] [0mDetected VIPT I-cache on CPU2
+[32m[124211.419613] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124211.420392] [0mCPU2 is up
+[32m[124211.421041] [0mDetected VIPT I-cache on CPU3
+[32m[124211.421152] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124211.421837] [0mCPU3 is up
+[32m[124211.422532] [0mDetected VIPT I-cache on CPU4
+[32m[124211.422687] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124211.423650] [0mCPU4 is up
+[32m[124211.424300] [0mDetected VIPT I-cache on CPU5
+[32m[124211.424405] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124211.425239] [0mCPU5 is up
+[32m[124211.425875] [0mDetected VIPT I-cache on CPU6
+[32m[124211.425982] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124211.426967] [0mCPU6 is up
+[32m[124211.427610] [0mDetected VIPT I-cache on CPU7
+[32m[124211.427716] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124211.428791] [0mCPU7 is up
+[32m[124211.431646] [33mPM[0m: noirq resume of devices complete after 2.698 msecs
+[32m[124211.446062] [33mPM[0m: early resume of devices complete after 12.242 msecs
+[32m[124211.462364] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124211.463113] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124211.502559] [33mPM[0m: resume of devices complete after 56.476 msecs
+[32m[124211.506567] [33mPM[0m: Finishing wakeup.
+[32m[124211.506586] [0mRestarting tasks ... done.
+[32m[124211.518117] [33mPM[0m: suspend exit 2018-07-07 13:14:13.853660031 UTC
+[32m[124212.030358] [33mPM[0m: suspend entry 2018-07-07 13:14:14.365904717 UTC
+[32m[124212.030374] [33mPM[0m: Preparing system for mem sleep
+[32m[124212.031429] [0mFreezing user space processes ... (elapsed 0.006 seconds) done.
+[32m[124212.038411] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124212.042226] [33mPM[0m: Entering mem sleep
+[32m[124212.042234] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124212.047289] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124212.070823] [33mPM[0m: suspend of devices complete after 27.094 msecs
+[32m[124212.073239] [33mPM[0m: late suspend of devices complete after 2.407 msecs
+[32m[124212.077095] [33mPM[0m: noirq suspend of devices complete after 3.849 msecs
+[32m[124212.077105] [0mDisabling non-boot CPUs ...
+[32m[124212.101774] [33msuspend ns[0m:  124212101762777\x09suspend cycles:    2610121848079
+[32m[124212.101762] [33mresume cycles[0m:    2610618223756
+[32m[124212.103246] [0mEnabling non-boot CPUs ...
+[32m[124212.103638] [0mDetected VIPT I-cache on CPU1
+[32m[124212.103715] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124212.104069] [0mCPU1 is up
+[32m[124212.104466] [0mDetected VIPT I-cache on CPU2
+[32m[124212.104530] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124212.104827] [0mCPU2 is up
+[32m[124212.105187] [0mDetected VIPT I-cache on CPU3
+[32m[124212.105248] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124212.105538] [0mCPU3 is up
+[32m[124212.105946] [0mDetected VIPT I-cache on CPU4
+[32m[124212.106027] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124212.107517] [0mCPU4 is up
+[32m[124212.107883] [0mDetected VIPT I-cache on CPU5
+[32m[124212.107943] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124212.108296] [0mCPU5 is up
+[32m[124212.108660] [0mDetected VIPT I-cache on CPU6
+[32m[124212.108720] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124212.109101] [0mCPU6 is up
+[32m[124212.109488] [0mDetected VIPT I-cache on CPU7
+[32m[124212.109548] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124212.109980] [0mCPU7 is up
+[32m[124212.111245] [33mPM[0m: noirq resume of devices complete after 1.197 msecs
+[32m[124212.120546] [33mPM[0m: early resume of devices complete after 8.279 msecs
+[32m[124212.130823] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124212.131134] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124212.169084] [33mPM[0m: resume of devices complete after 48.527 msecs
+[32m[124212.170947] [33mPM[0m: Finishing wakeup.
+[32m[124212.170956] [0mRestarting tasks ... done.
+[32m[124212.180535] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124212.180635] [33mPM[0m: suspend exit 2018-07-07 13:14:40.369078315 UTC
+[32m[124212.281046] [33mPM[0m: suspend entry 2018-07-07 13:14:40.469493377 UTC
+[32m[124212.281061] [33mPM[0m: Preparing system for mem sleep
+[32m[124212.282049] [0mFreezing user space processes ... (elapsed 0.007 seconds) done.
+[32m[124212.289189] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124212.292862] [33mPM[0m: Entering mem sleep
+[32m[124212.292869] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124212.297218] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124212.320420] [33mPM[0m: suspend of devices complete after 26.218 msecs
+[32m[124212.322346] [33mPM[0m: late suspend of devices complete after 1.919 msecs
+[32m[124212.326013] [33mPM[0m: noirq suspend of devices complete after 3.661 msecs
+[32m[124212.326023] [0mDisabling non-boot CPUs ...
+[32m[124212.337813] [33msuspend ns[0m:  124212337802152\x09suspend cycles:    2610622755712
+[32m[124212.337802] [33mresume cycles[0m:    2611770343017
+[32m[124212.339210] [0mEnabling non-boot CPUs ...
+[32m[124212.339586] [0mDetected VIPT I-cache on CPU1
+[32m[124212.339659] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124212.340066] [0mCPU1 is up
+[32m[124212.340455] [0mDetected VIPT I-cache on CPU2
+[32m[124212.340518] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124212.340822] [0mCPU2 is up
+[32m[124212.341172] [0mDetected VIPT I-cache on CPU3
+[32m[124212.341232] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124212.341488] [0mCPU3 is up
+[32m[124212.341870] [0mDetected VIPT I-cache on CPU4
+[32m[124212.341944] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124212.342261] [0mCPU4 is up
+[32m[124212.342606] [0mDetected VIPT I-cache on CPU5
+[32m[124212.342660] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124212.342970] [0mCPU5 is up
+[32m[124212.343306] [0mDetected VIPT I-cache on CPU6
+[32m[124212.343376] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124212.343719] [0mCPU6 is up
+[32m[124212.344062] [0mDetected VIPT I-cache on CPU7
+[32m[124212.344117] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124212.344526] [0mCPU7 is up
+[32m[124212.345611] [33mPM[0m: noirq resume of devices complete after 1.027 msecs
+[32m[124212.355292] [33mPM[0m: early resume of devices complete after 8.508 msecs
+[32m[124212.363773] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124212.364044] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124212.405443] [33mPM[0m: resume of devices complete after 50.139 msecs
+[32m[124212.407111] [33mPM[0m: Finishing wakeup.
+[32m[124212.407118] [0mRestarting tasks ... done.
+[32m[124212.414173] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124212.414276] [33mPM[0m: suspend exit 2018-07-07 13:15:40.372890711 UTC
+[32m[124212.514639] [33mPM[0m: suspend entry 2018-07-07 13:15:40.473257857 UTC
+[32m[124212.514656] [33mPM[0m: Preparing system for mem sleep
+[32m[124212.515672] [0mFreezing user space processes ... (elapsed 0.007 seconds) done.
+[32m[124212.523444] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124212.527100] [33mPM[0m: Entering mem sleep
+[32m[124212.527109] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124212.531333] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124212.552017] [33mPM[0m: suspend of devices complete after 23.596 msecs
+[32m[124212.554369] [33mPM[0m: late suspend of devices complete after 2.343 msecs
+[32m[124212.558029] [33mPM[0m: noirq suspend of devices complete after 3.655 msecs
+[32m[124212.558039] [0mDisabling non-boot CPUs ...
+[32m[124212.569919] [33msuspend ns[0m:  124212569909652\x09suspend cycles:    2611774799481
+[32m[124212.569909] [33mresume cycles[0m:    2612427636378
+[32m[124212.570359] [0mEnabling non-boot CPUs ...
+[32m[124212.570743] [0mDetected VIPT I-cache on CPU1
+[32m[124212.570816] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124212.571169] [0mCPU1 is up
+[32m[124212.571573] [0mDetected VIPT I-cache on CPU2
+[32m[124212.571636] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124212.571952] [0mCPU2 is up
+[32m[124212.572327] [0mDetected VIPT I-cache on CPU3
+[32m[124212.572386] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124212.572685] [0mCPU3 is up
+[32m[124212.573098] [0mDetected VIPT I-cache on CPU4
+[32m[124212.573176] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124212.573688] [0mCPU4 is up
+[32m[124212.574073] [0mDetected VIPT I-cache on CPU5
+[32m[124212.574130] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124212.574462] [0mCPU5 is up
+[32m[124212.574829] [0mDetected VIPT I-cache on CPU6
+[32m[124212.574887] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124212.575255] [0mCPU6 is up
+[32m[124212.575617] [0mDetected VIPT I-cache on CPU7
+[32m[124212.575675] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124212.576093] [0mCPU7 is up
+[32m[124212.577206] [33mPM[0m: noirq resume of devices complete after 1.053 msecs
+[32m[124212.589386] [33mPM[0m: early resume of devices complete after 11.117 msecs
+[32m[124212.598401] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124212.598707] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124212.638789] [33mPM[0m: resume of devices complete after 49.392 msecs
+[32m[124212.640597] [33mPM[0m: Finishing wakeup.
+[32m[124212.640605] [0mRestarting tasks ... done.
+[32m[124212.647630] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124212.647739] [33mPM[0m: suspend exit 2018-07-07 13:16:14.608276242 UTC
+[32m[124212.652005] [33mhealthd[0m: battery l=99 v=4363 t=29.7 h=2 st=3 c=8 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124212.748131] [33mPM[0m: suspend entry 2018-07-07 13:16:14.708671929 UTC
+[32m[124212.748147] [33mPM[0m: Preparing system for mem sleep
+[32m[124212.749112] [0mFreezing user space processes ... (elapsed 0.007 seconds) done.
+[32m[124212.756301] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124212.760099] [33mPM[0m: Entering mem sleep
+[32m[124212.760107] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124212.764682] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124212.785182] [33mPM[0m: suspend of devices complete after 23.711 msecs
+[32m[124212.787539] [33mPM[0m: late suspend of devices complete after 2.348 msecs
+[32m[124212.791220] [33mPM[0m: noirq suspend of devices complete after 3.675 msecs
+[32m[124212.791230] [0mDisabling non-boot CPUs ...
+[32m[124212.803840] [33msuspend ns[0m:  124212803828871\x09suspend cycles:    2612432127627
+[32m[124212.803828] [33mresume cycles[0m:    2612955796230
+[32m[124212.805287] [0mEnabling non-boot CPUs ...
+[32m[124212.805671] [0mDetected VIPT I-cache on CPU1
+[32m[124212.805747] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124212.806118] [0mCPU1 is up
+[32m[124212.806517] [0mDetected VIPT I-cache on CPU2
+[32m[124212.806584] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124212.806960] [0mCPU2 is up
+[32m[124212.807323] [0mDetected VIPT I-cache on CPU3
+[32m[124212.807385] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124212.807695] [0mCPU3 is up
+[32m[124212.808093] [0mDetected VIPT I-cache on CPU4
+[32m[124212.808172] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124212.808587] [0mCPU4 is up
+[32m[124212.808955] [0mDetected VIPT I-cache on CPU5
+[32m[124212.809012] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124212.809322] [0mCPU5 is up
+[32m[124212.809667] [0mDetected VIPT I-cache on CPU6
+[32m[124212.809722] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124212.810202] [0mCPU6 is up
+[32m[124212.810563] [0mDetected VIPT I-cache on CPU7
+[32m[124212.810620] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124212.811019] [0mCPU7 is up
+[32m[124212.812114] [33mPM[0m: noirq resume of devices complete after 1.039 msecs
+[32m[124212.824939] [33mPM[0m: early resume of devices complete after 11.696 msecs
+[32m[124212.833742] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124212.834027] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124212.875498] [33mPM[0m: resume of devices complete after 50.549 msecs
+[32m[124212.877319] [33mPM[0m: Finishing wakeup.
+[32m[124212.877326] [0mRestarting tasks ... done.
+[32m[124212.884466] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124212.884563] [33mPM[0m: suspend exit 2018-07-07 13:16:42.119507035 UTC
+[32m[124212.984894] [33mPM[0m: suspend entry 2018-07-07 13:16:42.219840691 UTC
+[32m[124212.984912] [33mPM[0m: Preparing system for mem sleep
+[32m[124212.985952] [0mFreezing user space processes ... (elapsed 0.006 seconds) done.
+[32m[124212.992925] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124212.996476] [33mPM[0m: Entering mem sleep
+[32m[124212.996484] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124213.000551] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124213.019954] [33mPM[0m: suspend of devices complete after 22.155 msecs
+[32m[124213.022120] [33mPM[0m: late suspend of devices complete after 2.158 msecs
+[32m[124213.025735] [33mPM[0m: noirq suspend of devices complete after 3.610 msecs
+[32m[124213.025745] [0mDisabling non-boot CPUs ...
+[32m[124213.037436] [33msuspend ns[0m:  124213037426632\x09suspend cycles:    2612960281307
+[32m[124213.037426] [33mresume cycles[0m:    2614135564199
+[32m[124213.038690] [0mEnabling non-boot CPUs ...
+[32m[124213.039063] [0mDetected VIPT I-cache on CPU1
+[32m[124213.039135] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124213.039472] [0mCPU1 is up
+[32m[124213.039859] [0mDetected VIPT I-cache on CPU2
+[32m[124213.039920] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124213.040242] [0mCPU2 is up
+[32m[124213.040595] [0mDetected VIPT I-cache on CPU3
+[32m[124213.040654] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124213.040921] [0mCPU3 is up
+[32m[124213.041308] [0mDetected VIPT I-cache on CPU4
+[32m[124213.041384] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124213.041708] [0mCPU4 is up
+[32m[124213.042045] [0mDetected VIPT I-cache on CPU5
+[32m[124213.042102] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124213.042430] [0mCPU5 is up
+[32m[124213.042771] [0mDetected VIPT I-cache on CPU6
+[32m[124213.042827] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124213.043424] [0mCPU6 is up
+[32m[124213.043788] [0mDetected VIPT I-cache on CPU7
+[32m[124213.043843] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124213.044252] [0mCPU7 is up
+[32m[124213.045259] [33mPM[0m: noirq resume of devices complete after 0.947 msecs
+[32m[124213.058540] [33mPM[0m: early resume of devices complete after 12.281 msecs
+[32m[124213.067377] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124213.067667] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124213.108460] [33mPM[0m: resume of devices complete after 49.909 msecs
+[32m[124213.110188] [33mPM[0m: Finishing wakeup.
+[32m[124213.110195] [0mRestarting tasks ... done.
+[32m[124213.116979] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124213.117033] [33mPM[0m: suspend exit 2018-07-07 13:17:43.564633441 UTC
+[32m[124213.217564] [33mPM[0m: suspend entry 2018-07-07 13:17:43.665161368 UTC
+[32m[124213.217581] [33mPM[0m: Preparing system for mem sleep
+[32m[124213.218559] [0mFreezing user space processes ... (elapsed 0.007 seconds) done.
+[32m[124213.225750] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124213.229514] [33mPM[0m: Entering mem sleep
+[32m[124213.229523] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124213.233853] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124213.254288] [33mPM[0m: suspend of devices complete after 23.365 msecs
+[32m[124213.256628] [33mPM[0m: late suspend of devices complete after 2.332 msecs
+[32m[124213.260305] [33mPM[0m: noirq suspend of devices complete after 3.671 msecs
+[32m[124213.260315] [0mDisabling non-boot CPUs ...
+[32m[124213.272648] [33msuspend ns[0m:  124213272636528\x09suspend cycles:    2614140080229
+[32m[124213.272636] [33mresume cycles[0m:    2615287708617
+[32m[124213.273242] [0mEnabling non-boot CPUs ...
+[32m[124213.273633] [0mDetected VIPT I-cache on CPU1
+[32m[124213.273709] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124213.274065] [0mCPU1 is up
+[32m[124213.274481] [0mDetected VIPT I-cache on CPU2
+[32m[124213.274546] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124213.274852] [0mCPU2 is up
+[32m[124213.275247] [0mDetected VIPT I-cache on CPU3
+[32m[124213.275308] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124213.275593] [0mCPU3 is up
+[32m[124213.275991] [0mDetected VIPT I-cache on CPU4
+[32m[124213.276070] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124213.276576] [0mCPU4 is up
+[32m[124213.276944] [0mDetected VIPT I-cache on CPU5
+[32m[124213.277001] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124213.277321] [0mCPU5 is up
+[32m[124213.277671] [0mDetected VIPT I-cache on CPU6
+[32m[124213.277728] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124213.278076] [0mCPU6 is up
+[32m[124213.278428] [0mDetected VIPT I-cache on CPU7
+[32m[124213.278484] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124213.278876] [0mCPU7 is up
+[32m[124213.280020] [33mPM[0m: noirq resume of devices complete after 1.083 msecs
+[32m[124213.291514] [33mPM[0m: early resume of devices complete after 10.443 msecs
+[32m[124213.300314] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124213.300601] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124213.342049] [33mPM[0m: resume of devices complete after 50.524 msecs
+[32m[124213.343873] [33mPM[0m: Finishing wakeup.
+[32m[124213.343881] [0mRestarting tasks ... done.
+[32m[124213.352453] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124213.352558] [33mPM[0m: suspend exit 2018-07-07 13:18:43.572464535 UTC
+[32m[124213.452891] [33mPM[0m: suspend entry 2018-07-07 13:18:43.672800587 UTC
+[32m[124213.452906] [33mPM[0m: Preparing system for mem sleep
+[32m[124213.453879] [0mFreezing user space processes ... (elapsed 0.006 seconds) done.
+[32m[124213.460461] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124213.464124] [33mPM[0m: Entering mem sleep
+[32m[124213.464132] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124213.468133] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124213.487545] [33mPM[0m: suspend of devices complete after 22.120 msecs
+[32m[124213.489694] [33mPM[0m: late suspend of devices complete after 2.142 msecs
+[32m[124213.493288] [33mPM[0m: noirq suspend of devices complete after 3.589 msecs
+[32m[124213.493298] [0mDisabling non-boot CPUs ...
+[32m[124213.528847] [33msuspend ns[0m:  124213528836841\x09suspend cycles:    2615292627663
+[32m[124213.528836] [33mresume cycles[0m:    2616439798799
+[32m[124213.530287] [0mEnabling non-boot CPUs ...
+[32m[124213.530688] [0mDetected VIPT I-cache on CPU1
+[32m[124213.530761] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124213.531104] [0mCPU1 is up
+[32m[124213.531482] [0mDetected VIPT I-cache on CPU2
+[32m[124213.531543] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124213.531829] [0mCPU2 is up
+[32m[124213.532167] [0mDetected VIPT I-cache on CPU3
+[32m[124213.532226] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124213.532483] [0mCPU3 is up
+[32m[124213.532866] [0mDetected VIPT I-cache on CPU4
+[32m[124213.532939] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124213.533369] [0mCPU4 is up
+[32m[124213.533723] [0mDetected VIPT I-cache on CPU5
+[32m[124213.533776] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124213.534069] [0mCPU5 is up
+[32m[124213.534405] [0mDetected VIPT I-cache on CPU6
+[32m[124213.534459] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124213.534791] [0mCPU6 is up
+[32m[124213.535128] [0mDetected VIPT I-cache on CPU7
+[32m[124213.535183] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124213.535553] [0mCPU7 is up
+[32m[124213.536622] [33mPM[0m: noirq resume of devices complete after 1.014 msecs
+[32m[124213.548448] [33mPM[0m: early resume of devices complete after 10.765 msecs
+[32m[124213.557177] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124213.557432] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124213.598467] [33mPM[0m: resume of devices complete after 50.009 msecs
+[32m[124213.600172] [33mPM[0m: Finishing wakeup.
+[32m[124213.600179] [0mRestarting tasks ... done.
+[32m[124213.607232] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124213.607337] [33mPM[0m: suspend exit 2018-07-07 13:19:43.575739694 UTC
+[32m[124213.707695] [33mPM[0m: suspend entry 2018-07-07 13:19:43.676100068 UTC
+[32m[124213.707711] [33mPM[0m: Preparing system for mem sleep
+[32m[124213.708725] [0mFreezing user space processes ... (elapsed 0.007 seconds) done.
+[32m[124213.715893] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124213.719770] [33mPM[0m: Entering mem sleep
+[32m[124213.719779] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124213.724923] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124213.746032] [33mPM[0m: suspend of devices complete after 24.846 msecs
+[32m[124213.748511] [33mPM[0m: late suspend of devices complete after 2.471 msecs
+[32m[124213.752396] [33mPM[0m: noirq suspend of devices complete after 3.880 msecs
+[32m[124213.752407] [0mDisabling non-boot CPUs ...
+[32m[124213.764989] [33msuspend ns[0m:  124213764978456\x09suspend cycles:    2616444332718
+[32m[124213.764978] [33mresume cycles[0m:    2617625322201
+[32m[124213.766610] [0mEnabling non-boot CPUs ...
+[32m[124213.767023] [0mDetected VIPT I-cache on CPU1
+[32m[124213.767100] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124213.767471] [0mCPU1 is up
+[32m[124213.767878] [0mDetected VIPT I-cache on CPU2
+[32m[124213.767945] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124213.768268] [0mCPU2 is up
+[32m[124213.768627] [0mDetected VIPT I-cache on CPU3
+[32m[124213.768689] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124213.768976] [0mCPU3 is up
+[32m[124213.769385] [0mDetected VIPT I-cache on CPU4
+[32m[124213.769466] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124213.770016] [0mCPU4 is up
+[32m[124213.770391] [0mDetected VIPT I-cache on CPU5
+[32m[124213.770447] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124213.770789] [0mCPU5 is up
+[32m[124213.771153] [0mDetected VIPT I-cache on CPU6
+[32m[124213.771212] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124213.771596] [0mCPU6 is up
+[32m[124213.771981] [0mDetected VIPT I-cache on CPU7
+[32m[124213.772040] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124213.772469] [0mCPU7 is up
+[32m[124213.773649] [33mPM[0m: noirq resume of devices complete after 1.119 msecs
+[32m[124213.785636] [33mPM[0m: early resume of devices complete after 10.859 msecs
+[32m[124213.794989] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124213.795301] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124213.835411] [33mPM[0m: resume of devices complete after 49.765 msecs
+[32m[124213.837320] [33mPM[0m: Finishing wakeup.
+[32m[124213.837328] [0mRestarting tasks ... done.
+[32m[124213.844636] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124213.844750] [33mPM[0m: suspend exit 2018-07-07 13:20:45.323021360 UTC
+[32m[124213.945099] [33mPM[0m: suspend entry 2018-07-07 13:20:45.423374183 UTC
+[32m[124213.945115] [33mPM[0m: Preparing system for mem sleep
+[32m[124213.946071] [0mFreezing user space processes ... (elapsed 0.007 seconds) done.
+[32m[124213.953279] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124213.957067] [33mPM[0m: Entering mem sleep
+[32m[124213.957075] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124213.961749] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124213.981814] [33mPM[0m: suspend of devices complete after 23.379 msecs
+[32m[124213.984211] [33mPM[0m: late suspend of devices complete after 2.389 msecs
+[32m[124213.987904] [33mPM[0m: noirq suspend of devices complete after 3.688 msecs
+[32m[124213.987914] [0mDisabling non-boot CPUs ...
+[32m[124214.000302] [33msuspend ns[0m:  124214000291321\x09suspend cycles:    2617629840208
+[32m[124214.000291] [33mresume cycles[0m:    2618804896866
+[32m[124214.000747] [0mEnabling non-boot CPUs ...
+[32m[124214.001149] [0mDetected VIPT I-cache on CPU1
+[32m[124214.001225] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124214.001576] [0mCPU1 is up
+[32m[124214.001990] [0mDetected VIPT I-cache on CPU2
+[32m[124214.002053] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124214.002356] [0mCPU2 is up
+[32m[124214.002745] [0mDetected VIPT I-cache on CPU3
+[32m[124214.002805] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124214.003181] [0mCPU3 is up
+[32m[124214.003582] [0mDetected VIPT I-cache on CPU4
+[32m[124214.003662] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124214.004118] [0mCPU4 is up
+[32m[124214.004485] [0mDetected VIPT I-cache on CPU5
+[32m[124214.004543] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124214.004861] [0mCPU5 is up
+[32m[124214.005212] [0mDetected VIPT I-cache on CPU6
+[32m[124214.005268] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124214.005604] [0mCPU6 is up
+[32m[124214.005961] [0mDetected VIPT I-cache on CPU7
+[32m[124214.006018] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124214.006450] [0mCPU7 is up
+[32m[124214.007552] [33mPM[0m: noirq resume of devices complete after 1.042 msecs
+[32m[124214.020036] [33mPM[0m: early resume of devices complete after 11.402 msecs
+[32m[124214.029023] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124214.029305] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124214.068653] [33mPM[0m: resume of devices complete after 48.608 msecs
+[32m[124214.070474] [33mPM[0m: Finishing wakeup.
+[32m[124214.070482] [0mRestarting tasks ... done.
+[32m[124214.076684] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124214.076739] [33mPM[0m: suspend exit 2018-07-07 13:21:46.755884901 UTC
+[32m[124214.177053] [33mPM[0m: suspend entry 2018-07-07 13:21:46.856195641 UTC
+[32m[124214.177070] [33mPM[0m: Preparing system for mem sleep
+[32m[124214.178057] [0mFreezing user space processes ... (elapsed 0.007 seconds) done.
+[32m[124214.185133] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124214.188899] [33mPM[0m: Entering mem sleep
+[32m[124214.188907] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124214.193229] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124214.213620] [33mPM[0m: suspend of devices complete after 23.299 msecs
+[32m[124214.215916] [33mPM[0m: late suspend of devices complete after 2.288 msecs
+[32m[124214.219736] [33mPM[0m: noirq suspend of devices complete after 3.814 msecs
+[32m[124214.219747] [0mDisabling non-boot CPUs ...
+[32m[124214.232032] [33msuspend ns[0m:  124214232021165\x09suspend cycles:    2618809346079
+[32m[124214.232021] [33mresume cycles[0m:    2619614933848
+[32m[124214.232372] [0mEnabling non-boot CPUs ...
+[32m[124214.232667] [0mDetected VIPT I-cache on CPU1
+[32m[124214.232726] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124214.233125] [0mCPU1 is up
+[32m[124214.233446] [0mDetected VIPT I-cache on CPU2
+[32m[124214.233494] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124214.233796] [0mCPU2 is up
+[32m[124214.234076] [0mDetected VIPT I-cache on CPU3
+[32m[124214.234120] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124214.234397] [0mCPU3 is up
+[32m[124214.234696] [0mDetected VIPT I-cache on CPU4
+[32m[124214.234758] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124214.235217] [0mCPU4 is up
+[32m[124214.235507] [0mDetected VIPT I-cache on CPU5
+[32m[124214.235548] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124214.235841] [0mCPU5 is up
+[32m[124214.236111] [0mDetected VIPT I-cache on CPU6
+[32m[124214.236151] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124214.236501] [0mCPU6 is up
+[32m[124214.236774] [0mDetected VIPT I-cache on CPU7
+[32m[124214.236814] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124214.237212] [0mCPU7 is up
+[32m[124214.238312] [33mPM[0m: noirq resume of devices complete after 1.040 msecs
+[32m[124214.249336] [33mPM[0m: early resume of devices complete after 10.033 msecs
+[32m[124214.258997] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124214.298421] [33mPM[0m: resume of devices complete after 49.075 msecs
+[32m[124214.300126] [33mPM[0m: Finishing wakeup.
+[32m[124214.300134] [0mRestarting tasks ... done.
+[32m[124214.307647] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124214.307759] [33mPM[0m: suspend exit 2018-07-07 13:22:28.944593970 UTC
+[32m[124214.408122] [33mPM[0m: suspend entry 2018-07-07 13:22:29.044961168 UTC
+[32m[124214.408138] [33mPM[0m: Preparing system for mem sleep
+[32m[124214.409100] [0mFreezing user space processes ... (elapsed 0.006 seconds) done.
+[32m[124214.415777] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124214.419524] [33mPM[0m: Entering mem sleep
+[32m[124214.419532] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124214.423744] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124214.443442] [33mPM[0m: suspend of devices complete after 22.621 msecs
+[32m[124214.445593] [33mPM[0m: late suspend of devices complete after 2.143 msecs
+[32m[124214.448965] [33mPM[0m: noirq suspend of devices complete after 3.367 msecs
+[32m[124214.448975] [0mDisabling non-boot CPUs ...
+[32m[124214.460708] [33msuspend ns[0m:  124214460697415\x09suspend cycles:    2619619324432
+[32m[124214.460697] [33mresume cycles[0m:    2619668260937
+[32m[124214.460999] [0mEnabling non-boot CPUs ...
+[32m[124214.461288] [0mDetected VIPT I-cache on CPU1
+[32m[124214.461346] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124214.461663] [0mCPU1 is up
+[32m[124214.461967] [0mDetected VIPT I-cache on CPU2
+[32m[124214.462012] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124214.462282] [0mCPU2 is up
+[32m[124214.462550] [0mDetected VIPT I-cache on CPU3
+[32m[124214.462593] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124214.462929] [0mCPU3 is up
+[32m[124214.463236] [0mDetected VIPT I-cache on CPU4
+[32m[124214.463296] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124214.463704] [0mCPU4 is up
+[32m[124214.463988] [0mDetected VIPT I-cache on CPU5
+[32m[124214.464027] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124214.464304] [0mCPU5 is up
+[32m[124214.464567] [0mDetected VIPT I-cache on CPU6
+[32m[124214.464605] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124214.464906] [0mCPU6 is up
+[32m[124214.465165] [0mDetected VIPT I-cache on CPU7
+[32m[124214.465204] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124214.465559] [0mCPU7 is up
+[32m[124214.466628] [33mPM[0m: noirq resume of devices complete after 1.015 msecs
+[32m[124214.477827] [33mPM[0m: early resume of devices complete after 10.246 msecs
+[32m[124214.486880] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124214.528118] [33mPM[0m: resume of devices complete after 50.282 msecs
+[32m[124214.529704] [33mPM[0m: Finishing wakeup.
+[32m[124214.529710] [0mRestarting tasks ... done.
+[32m[124214.536920] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124214.537034] [33mPM[0m: suspend exit 2018-07-07 13:22:31.722645138 UTC
+[32m[124214.638464] [33mPM[0m: suspend entry 2018-07-07 13:22:31.824079418 UTC
+[32m[124214.638478] [33mPM[0m: Preparing system for mem sleep
+[32m[124214.639406] [0mFreezing user space processes ... (elapsed 0.007 seconds) done.
+[32m[124214.646846] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124214.650567] [33mPM[0m: Entering mem sleep
+[32m[124214.650574] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124214.654978] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124214.671992] [33mPM[0m: suspend of devices complete after 20.029 msecs
+[32m[124214.674384] [33mPM[0m: late suspend of devices complete after 2.385 msecs
+[32m[124214.678209] [33mPM[0m: noirq suspend of devices complete after 3.819 msecs
+[32m[124214.678219] [0mDisabling non-boot CPUs ...
+[32m[124214.690090] [33msuspend ns[0m:  124214690079238\x09suspend cycles:    2619672665068
+[32m[124214.690079] [33mresume cycles[0m:    2619673739621
+[32m[124214.690383] [0mEnabling non-boot CPUs ...
+[32m[124214.690690] [0mDetected VIPT I-cache on CPU1
+[32m[124214.690750] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124214.691097] [0mCPU1 is up
+[32m[124214.691422] [0mDetected VIPT I-cache on CPU2
+[32m[124214.691470] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124214.691766] [0mCPU2 is up
+[32m[124214.692056] [0mDetected VIPT I-cache on CPU3
+[32m[124214.692101] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124214.692364] [0mCPU3 is up
+[32m[124214.692699] [0mDetected VIPT I-cache on CPU4
+[32m[124214.692763] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124214.693220] [0mCPU4 is up
+[32m[124214.693523] [0mDetected VIPT I-cache on CPU5
+[32m[124214.693564] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124214.693874] [0mCPU5 is up
+[32m[124214.694152] [0mDetected VIPT I-cache on CPU6
+[32m[124214.694193] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124214.694519] [0mCPU6 is up
+[32m[124214.694799] [0mDetected VIPT I-cache on CPU7
+[32m[124214.694840] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124214.695231] [0mCPU7 is up
+[32m[124214.696356] [33mPM[0m: noirq resume of devices complete after 1.065 msecs
+[32m[124214.705942] [33mPM[0m: early resume of devices complete after 8.600 msecs
+[32m[124214.715850] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124214.755418] [33mPM[0m: resume of devices complete after 49.418 msecs
+[32m[124214.757118] [33mPM[0m: Finishing wakeup.
+[32m[124214.757125] [0mRestarting tasks ... done.
+[32m[124214.764398] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124214.764496] [33mPM[0m: suspend exit 2018-07-07 13:22:32.006074379 UTC
+[32m[124214.832410] [0mmdss_dsi_on[0]+.
+[32m[124214.881108] [0mmdss_dsi_panel_on[0]+.
+[32m[124214.981990] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124215.020283] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124215.736894] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124215.736912] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124215.736922] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124215.736925] [33m->action()[0m:           (null)
+[32m[124215.736927] [0mIRQ_NOPROBE set
+[32m[124215.736928] [0mIRQ_NOREQUEST set
+[32m[124215.736929] [0mIRQ_NOTHREAD set
+[32m[124215.755574] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124215.813257] [0mmdss_dsi_panel_off[0]+.
+[32m[124215.945481] [0mmdss_dsi_off[0]+.
+[32m[124215.970326] [33mlast active wakeup source[0m: PowerManagerService.Display
+[32m[124216.171730] [33mPM[0m: suspend entry 2018-07-07 13:22:33.413301290 UTC
+[32m[124216.171760] [33mPM[0m: Preparing system for mem sleep
+[32m[124216.173567] [0mFreezing user space processes ... (elapsed 0.011 seconds) done.
+[32m[124216.185497] [0mFreezing remaining freezable tasks ... (elapsed 0.005 seconds) done.
+[32m[124216.191155] [33mPM[0m: Entering mem sleep
+[32m[124216.191172] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124216.200582] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124216.226044] [33mPM[0m: suspend of devices complete after 32.190 msecs
+[32m[124216.231479] [33mPM[0m: late suspend of devices complete after 5.412 msecs
+[32m[124216.242212] [33mPM[0m: noirq suspend of devices complete after 10.715 msecs
+[32m[124216.242240] [0mDisabling non-boot CPUs ...
+[32m[124216.274611] [33msuspend ns[0m:  124216274582367\x09suspend cycles:    2619704162081
+[32m[124216.274582] [33mresume cycles[0m:    2619835088531
+[32m[124216.275482] [0mEnabling non-boot CPUs ...
+[32m[124216.276254] [0mDetected VIPT I-cache on CPU1
+[32m[124216.276396] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124216.277309] [0mCPU1 is up
+[32m[124216.278006] [0mDetected VIPT I-cache on CPU2
+[32m[124216.278115] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124216.278893] [0mCPU2 is up
+[32m[124216.280005] [0mDetected VIPT I-cache on CPU3
+[32m[124216.280116] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124216.280876] [0mCPU3 is up
+[32m[124216.281604] [0mDetected VIPT I-cache on CPU4
+[32m[124216.281754] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124216.282745] [0mCPU4 is up
+[32m[124216.283378] [0mDetected VIPT I-cache on CPU5
+[32m[124216.283471] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124216.284368] [0mCPU5 is up
+[32m[124216.285001] [0mDetected VIPT I-cache on CPU6
+[32m[124216.285096] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124216.286248] [0mCPU6 is up
+[32m[124216.286876] [0mDetected VIPT I-cache on CPU7
+[32m[124216.286971] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124216.288119] [0mCPU7 is up
+[32m[124216.291441] [33mPM[0m: noirq resume of devices complete after 3.123 msecs
+[32m[124216.307982] [33mPM[0m: early resume of devices complete after 14.346 msecs
+[32m[124216.325074] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124216.365364] [33mPM[0m: resume of devices complete after 57.358 msecs
+[32m[124216.369397] [33mPM[0m: Finishing wakeup.
+[32m[124216.369415] [0mRestarting tasks ... done.
+[32m[124216.381368] [33mPM[0m: suspend exit 2018-07-07 13:22:40.442031152 UTC
+[32m[124216.454861] [0mmdss_dsi_on[0]+.
+[32m[124216.504993] [0mmdss_dsi_panel_on[0]+.
+[32m[124216.605937] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124216.644100] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124237.239214] [33mRequested rate[0m: 48000, sample size: 16, physical size: 16
+[32m[124237.239231] [0mmixer profile:container profile = [0:0]
+[32m[124237.277399] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 0
+[32m[124237.278028] [0mActive_profile:speaker, next_profile:speaker
+[32m[124237.278302] [0mStartup of device [Q] is a warmstart
+[32m[124237.278910] [33mhealthd[0m: battery l=99 v=4363 t=30.0 h=2 st=3 c=8 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124237.283180] [33mRequested rate[0m: 48000, sample size: 16, physical size: 16
+[32m[124237.283192] [0mmixer profile:container profile = [0:0]
+[32m[124237.285672] [33mtfa98xx 2-0034[0m: tfa_dev_start success (0)
+[32m[124237.304248] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 0
+[32m[124237.304848] [33mtfa98xx 2-0034[31m: tfa98xx_adsp_send_calib_values: cal value 0x71a1c
+[32m[124237.326992] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124237.356479] [33mi2c-msm-v2 7af5000.i2c[31m: NACK: slave not responding, ensure its powered: msgs(n:1 cur:0 tx) bc(rx:0 tx:4) mode:FIFO slv_addr:0x28 MSTR_STS:0x0d1300c8 OPER:0x00000090
+[32m[124237.505934] [33m[09:23:01.566601] [0000026212A31D28] [VosRX]  wlan[31m: [E :WDI] WDTS_RxPacketDump RX Data frame is UC
+[32m[124237.505953] [33m[09:23:01.566627] [0000026212A31F18] [VosRX]  wlan[31m: [E :WDI] WDTS_RxPacketDump: Management subtype:5 SA:88:25:93:95:fd:56 DA:30:4b:07:d8:2d:e9
+[32m[124240.212782] [33m[09:23:04.273445] [0000026215BC2282] [swapp]  wlan[31m: [E :VOS] TIMER callback called in a wrong state=19
+[32m[124240.332786] [33m[09:23:04.393454] [0000026215DF4B11] [VosMC]  wlan[31m: [E :SME] sme_QoSUpdateUapsdBTEvent: 8039 Invalid sessionId
+[32m[124240.545908] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 1
+[32m[124240.585033] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 1
+[32m[124247.893357] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 300 mA, USBC CL 0 mA, DC 900 mA
+[32m[124247.893403] [33msmbchg_heartbeat_work[0m: Step State = NONE, BSW Mode OFF, EB State DISCONN
+[32m[124247.893455] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=255
+[32m[124247.910351] [33mhealthd[0m: battery l=99 v=4341 t=30.0 h=2 st=3 c=158 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124249.164021] [33m[09:23:13.224677] [000002621FFA90BF] [VosMC]  wlan[31m: [E :SME] sme_QoSUpdateUapsdBTEvent: 8039 Invalid sessionId
+[32m[124267.785106] [33mhealthd[0m: battery l=99 v=4341 t=30.0 h=2 st=3 c=158 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124267.821595] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124267.821617] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124267.821628] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124267.821630] [33m->action()[0m:           (null)
+[32m[124267.821632] [0mIRQ_NOPROBE set
+[32m[124267.821633] [0mIRQ_NOREQUEST set
+[32m[124267.821634] [0mIRQ_NOTHREAD set
+[32m[124267.895974] [0mmdss_dsi_panel_off[0]+.
+[32m[124267.977614] [33mevent_handler[0m: reclaimed all bufs
+[32m[124268.027033] [0mmdss_dsi_off[0]+.
+[32m[124268.048142] [33mactive wakeup source[0m: PowerManagerService.WakeLocks
+[32m[124268.048189] [33mactive wakeup source[0m: PowerManagerService.Display
+[32m[124268.607964] [33mi2c-msm-v2 7af5000.i2c[31m: NACK: slave not responding, ensure its powered: msgs(n:1 cur:0 tx) bc(rx:0 tx:4) mode:FIFO slv_addr:0x28 MSTR_STS:0x0d1300c8 OPER:0x00000090
+[32m[124270.649628] [33mPM[0m: suspend entry 2018-07-07 13:23:34.710275516 UTC
+[32m[124270.649672] [33mPM[0m: Preparing system for mem sleep
+[32m[124270.657702] [33mueventd[0m: firmware: loading 'wlan/prima/WCNSS_qcom_cfg.ini' for '/devices/virtual/firmware/wlan!prima!WCNSS_qcom_cfg.ini'
+[32m[124270.660984] [33mueventd[0m: loading /devices/virtual/firmware/wlan!prima!WCNSS_qcom_cfg.ini took 4ms
+[32m[124270.663795] [33mueventd[0m: firmware: loading 'tfa98xx.cnt' for '/devices/virtual/firmware/tfa98xx.cnt'
+[32m[124270.665232] [33mueventd[0m: loading /devices/virtual/firmware/tfa98xx.cnt took 1ms
+[32m[124270.668728] [33mueventd[0m: firmware: loading 'adsp.mdt' for '/devices/virtual/firmware/adsp.mdt'
+[32m[124270.670226] [33mueventd[0m: loading /devices/virtual/firmware/adsp.mdt took 2ms
+[32m[124270.672919] [33mueventd[0m: firmware: loading 'wlan/prima/WCNSS_qcom_wlan_nv.bin' for '/devices/virtual/firmware/wlan!prima!WCNSS_qcom_wlan_nv.bin'
+[32m[124270.674150] [33mueventd[0m: loading /devices/virtual/firmware/wlan!prima!WCNSS_qcom_wlan_nv.bin took 1ms
+[32m[124270.677202] [33mueventd[0m: firmware: loading 'wcnss.mdt' for '/devices/virtual/firmware/wcnss.mdt'
+[32m[124270.679852] [33mueventd[0m: loading /devices/virtual/firmware/wcnss.mdt took 2ms
+[32m[124270.683056] [33mueventd[0m: firmware: loading 'a506_zap.mdt' for '/devices/virtual/firmware/a506_zap.mdt'
+[32m[124270.684002] [33mueventd[0m: loading /devices/virtual/firmware/a506_zap.mdt took 2ms
+[32m[124270.686550] [33mueventd[0m: firmware: loading 'venus.mdt' for '/devices/virtual/firmware/venus.mdt'
+[32m[124270.687571] [33mueventd[0m: loading /devices/virtual/firmware/venus.mdt took 1ms
+[32m[124270.690581] [33mueventd[0m: firmware: loading 'mba.mbn' for '/devices/virtual/firmware/mba.mbn'
+[32m[124270.695206] [33mueventd[0m: loading /devices/virtual/firmware/mba.mbn took 5ms
+[32m[124270.697102] [33mueventd[0m: firmware: loading 'modem.mdt' for '/devices/virtual/firmware/modem.mdt'
+[32m[124270.698507] [33mueventd[0m: loading /devices/virtual/firmware/modem.mdt took 1ms
+[32m[124270.700024] [0mFreezing user space processes ... (elapsed 0.013 seconds) done.
+[32m[124270.713080] [0mFreezing remaining freezable tasks ... (elapsed 0.005 seconds) done.
+[32m[124270.718975] [33mPM[0m: Entering mem sleep
+[32m[124270.718992] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124270.728044] [33mdpm_run_callback()[31m: platform_pm_suspend+0x0/0x50 returns -16
+[32m[124270.728060] [33mPM[31m: Device alarmtimer failed to suspend: error -16
+[32m[124270.743631] [33mPM[31m: Some devices failed to suspend, or early wake event detected
+[32m[124270.821221] [33mPM[0m: resume of devices complete after 77.566 msecs
+[32m[124270.824790] [33mPM[0m: Finishing wakeup.
+[32m[124270.824806] [0mRestarting tasks ... done.
+[32m[124270.840184] [33mAbort[0m: Some devices failed to suspend, or early wake event detected
+[32m[124270.840254] [33mPM[0m: suspend exit 2018-07-07 13:23:34.900920795 UTC
+[32m[124272.731500] [33mPM[0m: suspend entry 2018-07-07 13:23:36.792155046 UTC
+[32m[124272.731549] [33mPM[0m: Preparing system for mem sleep
+[32m[124272.734198] [0mFreezing user space processes ... (elapsed 0.016 seconds) done.
+[32m[124272.750786] [0mFreezing remaining freezable tasks ... (elapsed 0.008 seconds) done.
+[32m[124272.759428] [33mPM[0m: Entering mem sleep
+[32m[124272.759449] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124272.772555] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124272.806456] [33mPM[0m: suspend of devices complete after 43.163 msecs
+[32m[124272.812634] [33mPM[0m: late suspend of devices complete after 6.156 msecs
+[32m[124272.821002] [33mPM[0m: noirq suspend of devices complete after 8.354 msecs
+[32m[124272.821029] [0mDisabling non-boot CPUs ...
+[32m[124272.823061] [33mmigrate_irqs[0m: 43502 callbacks suppressed
+[32m[124272.823069] [0mIRQ7 no longer affine to CPU1
+[32m[124272.823076] [0mIRQ8 no longer affine to CPU1
+[32m[124272.823083] [0mIRQ9 no longer affine to CPU1
+[32m[124272.823090] [0mIRQ10 no longer affine to CPU1
+[32m[124272.823098] [0mIRQ11 no longer affine to CPU1
+[32m[124272.823105] [0mIRQ12 no longer affine to CPU1
+[32m[124272.823112] [0mIRQ13 no longer affine to CPU1
+[32m[124272.823120] [0mIRQ14 no longer affine to CPU1
+[32m[124272.823127] [0mIRQ15 no longer affine to CPU1
+[32m[124272.823134] [0mIRQ16 no longer affine to CPU1
+[32m[124272.859055] [33msuspend ns[0m:  124272859032695\x09suspend cycles:    2620921509974
+[32m[124272.859032] [33mresume cycles[0m:    2621164171077
+[32m[124272.863422] [0mEnabling non-boot CPUs ...
+[32m[124272.864162] [0mDetected VIPT I-cache on CPU1
+[32m[124272.864318] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124272.865247] [0mCPU1 is up
+[32m[124272.866053] [0mDetected VIPT I-cache on CPU2
+[32m[124272.866170] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124272.866868] [0mCPU2 is up
+[32m[124272.867495] [0mDetected VIPT I-cache on CPU3
+[32m[124272.867604] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124272.868332] [0mCPU3 is up
+[32m[124272.869089] [0mDetected VIPT I-cache on CPU4
+[32m[124272.869272] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124272.870192] [0mCPU4 is up
+[32m[124272.871056] [0mDetected VIPT I-cache on CPU5
+[32m[124272.871162] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124272.872074] [0mCPU5 is up
+[32m[124272.872859] [0mDetected VIPT I-cache on CPU6
+[32m[124272.872964] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124272.873915] [0mCPU6 is up
+[32m[124272.874627] [0mDetected VIPT I-cache on CPU7
+[32m[124272.874737] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124272.875895] [0mCPU7 is up
+[32m[124272.878882] [33mPM[0m: noirq resume of devices complete after 2.806 msecs
+[32m[124272.895213] [33mPM[0m: early resume of devices complete after 13.941 msecs
+[32m[124272.913612] [33mgpio_keys_gpio_report_event[0m: 4 callbacks suppressed
+[32m[124272.913635] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124272.914383] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124272.954704] [33mPM[0m: resume of devices complete after 59.466 msecs
+[32m[124272.958715] [33mPM[0m: Finishing wakeup.
+[32m[124272.958734] [0mRestarting tasks ... done.
+[32m[124272.970662] [33mPM[0m: suspend exit 2018-07-07 13:23:49.669926576 UTC
+[32m[124273.071031] [33mPM[0m: suspend entry 2018-07-07 13:23:49.770304398 UTC
+[32m[124273.071046] [33mPM[0m: Preparing system for mem sleep
+[32m[124273.071971] [0mFreezing user space processes ... (elapsed 0.006 seconds) done.
+[32m[124273.078874] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124273.082664] [33mPM[0m: Entering mem sleep
+[32m[124273.082672] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124273.086789] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124273.106365] [33mPM[0m: suspend of devices complete after 22.433 msecs
+[32m[124273.108492] [33mPM[0m: late suspend of devices complete after 2.119 msecs
+[32m[124273.112072] [33mPM[0m: noirq suspend of devices complete after 3.575 msecs
+[32m[124273.112082] [0mDisabling non-boot CPUs ...
+[32m[124273.123582] [33msuspend ns[0m:  124273123571497\x09suspend cycles:    2621169250222
+[32m[124273.123571] [33mresume cycles[0m:    2621787761400
+[32m[124273.123912] [0mEnabling non-boot CPUs ...
+[32m[124273.124198] [0mDetected VIPT I-cache on CPU1
+[32m[124273.124255] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124273.124580] [0mCPU1 is up
+[32m[124273.124877] [0mDetected VIPT I-cache on CPU2
+[32m[124273.124920] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124273.125204] [0mCPU2 is up
+[32m[124273.125474] [0mDetected VIPT I-cache on CPU3
+[32m[124273.125519] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124273.125813] [0mCPU3 is up
+[32m[124273.126120] [0mDetected VIPT I-cache on CPU4
+[32m[124273.126179] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124273.126602] [0mCPU4 is up
+[32m[124273.126883] [0mDetected VIPT I-cache on CPU5
+[32m[124273.126921] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124273.127207] [0mCPU5 is up
+[32m[124273.127461] [0mDetected VIPT I-cache on CPU6
+[32m[124273.127500] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124273.127811] [0mCPU6 is up
+[32m[124273.128056] [0mDetected VIPT I-cache on CPU7
+[32m[124273.128095] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124273.128441] [0mCPU7 is up
+[32m[124273.129506] [33mPM[0m: noirq resume of devices complete after 1.011 msecs
+[32m[124273.139862] [33mPM[0m: early resume of devices complete after 9.401 msecs
+[32m[124273.149377] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124273.149649] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124273.199128] [33mPM[0m: resume of devices complete after 59.248 msecs
+[32m[124273.200815] [33mPM[0m: Finishing wakeup.
+[32m[124273.200823] [0mRestarting tasks ... done.
+[32m[124273.209452] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124273.209556] [33mPM[0m: suspend exit 2018-07-07 13:24:22.122948201 UTC
+[32m[124273.275384] [0mmdss_dsi_on[0]+.
+[32m[124273.323160] [0mmdss_dsi_panel_on[0]+.
+[32m[124273.423621] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124273.458764] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124277.244098] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124277.244118] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124277.244129] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124277.244131] [33m->action()[0m:           (null)
+[32m[124277.244133] [0mIRQ_NOPROBE set
+[32m[124277.244134] [0mIRQ_NOREQUEST set
+[32m[124277.244135] [0mIRQ_NOTHREAD set
+[32m[124277.268542] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124277.316280] [0mmdss_dsi_panel_off[0]+.
+[32m[124277.448534] [0mmdss_dsi_off[0]+.
+[32m[124277.472356] [33mactive wakeup source[0m: PowerManagerService.Display
+[32m[124277.674649] [33mPM[0m: suspend entry 2018-07-07 13:24:26.588028177 UTC
+[32m[124277.674694] [33mPM[0m: Preparing system for mem sleep
+[32m[124277.677365] [0mFreezing user space processes ... (elapsed 0.015 seconds) done.
+[32m[124277.693268] [0mFreezing remaining freezable tasks ... (elapsed 0.008 seconds) done.
+[32m[124277.701710] [33mPM[0m: Entering mem sleep
+[32m[124277.701734] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124277.714462] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124277.744243] [33mPM[0m: suspend of devices complete after 38.613 msecs
+[32m[124277.750475] [33mPM[0m: late suspend of devices complete after 6.209 msecs
+[32m[124277.760628] [33mPM[0m: noirq suspend of devices complete after 10.138 msecs
+[32m[124277.760656] [0mDisabling non-boot CPUs ...
+[32m[124277.794254] [33msuspend ns[0m:  124277794222761\x09suspend cycles:    2621877437904
+[32m[124277.794222] [33mresume cycles[0m:    2622316363978
+[32m[124277.795654] [0mEnabling non-boot CPUs ...
+[32m[124277.796391] [0mDetected VIPT I-cache on CPU1
+[32m[124277.796551] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124277.797428] [0mCPU1 is up
+[32m[124277.798130] [0mDetected VIPT I-cache on CPU2
+[32m[124277.798247] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124277.799057] [0mCPU2 is up
+[32m[124277.799724] [0mDetected VIPT I-cache on CPU3
+[32m[124277.799842] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124277.800736] [0mCPU3 is up
+[32m[124277.801565] [0mDetected VIPT I-cache on CPU4
+[32m[124277.801747] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124277.802791] [0mCPU4 is up
+[32m[124277.803539] [0mDetected VIPT I-cache on CPU5
+[32m[124277.803651] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124277.804571] [0mCPU5 is up
+[32m[124277.805253] [0mDetected VIPT I-cache on CPU6
+[32m[124277.805361] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124277.806347] [0mCPU6 is up
+[32m[124277.807034] [0mDetected VIPT I-cache on CPU7
+[32m[124277.807145] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124277.808316] [0mCPU7 is up
+[32m[124277.811584] [33mPM[0m: noirq resume of devices complete after 3.096 msecs
+[32m[124277.831241] [33mPM[0m: early resume of devices complete after 17.272 msecs
+[32m[124277.849305] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124277.850062] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124277.891185] [33mPM[0m: resume of devices complete after 59.920 msecs
+[32m[124277.895182] [33mPM[0m: Finishing wakeup.
+[32m[124277.895201] [0mRestarting tasks ... done.
+[32m[124277.907316] [33mPM[0m: suspend exit 2018-07-07 13:24:49.681440431 UTC
+[32m[124278.008958] [33mPM[0m: suspend entry 2018-07-07 13:24:49.783083254 UTC
+[32m[124278.008981] [33mPM[0m: Preparing system for mem sleep
+[32m[124278.010269] [0mFreezing user space processes ... (elapsed 0.009 seconds) done.
+[32m[124278.020036] [0mFreezing remaining freezable tasks ... (elapsed 0.004 seconds) done.
+[32m[124278.024876] [33mPM[0m: Entering mem sleep
+[32m[124278.024888] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124278.031595] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124278.053180] [33mPM[0m: suspend of devices complete after 26.233 msecs
+[32m[124278.056932] [33mPM[0m: late suspend of devices complete after 3.739 msecs
+[32m[124278.062251] [33mPM[0m: noirq suspend of devices complete after 5.310 msecs
+[32m[124278.062266] [0mDisabling non-boot CPUs ...
+[32m[124278.063428] [33mmigrate_irqs[0m: 9314 callbacks suppressed
+[32m[124278.063433] [0mIRQ7 no longer affine to CPU1
+[32m[124278.063438] [0mIRQ8 no longer affine to CPU1
+[32m[124278.063443] [0mIRQ9 no longer affine to CPU1
+[32m[124278.063447] [0mIRQ10 no longer affine to CPU1
+[32m[124278.063452] [0mIRQ11 no longer affine to CPU1
+[32m[124278.063457] [0mIRQ12 no longer affine to CPU1
+[32m[124278.063461] [0mIRQ13 no longer affine to CPU1
+[32m[124278.063466] [0mIRQ14 no longer affine to CPU1
+[32m[124278.063470] [0mIRQ15 no longer affine to CPU1
+[32m[124278.063475] [0mIRQ16 no longer affine to CPU1
+[32m[124278.081227] [33msuspend ns[0m:  124278081216668\x09suspend cycles:    2622321874261
+[32m[124278.081216] [33mresume cycles[0m:    2622552313630
+[32m[124278.081565] [0mEnabling non-boot CPUs ...
+[32m[124278.082090] [0mDetected VIPT I-cache on CPU1
+[32m[124278.082192] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124278.082741] [0mCPU1 is up
+[32m[124278.083290] [0mDetected VIPT I-cache on CPU2
+[32m[124278.083373] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124278.083862] [0mCPU2 is up
+[32m[124278.084364] [0mDetected VIPT I-cache on CPU3
+[32m[124278.084445] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124278.084882] [0mCPU3 is up
+[32m[124278.085435] [0mDetected VIPT I-cache on CPU4
+[32m[124278.085545] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124278.086111] [0mCPU4 is up
+[32m[124278.086608] [0mDetected VIPT I-cache on CPU5
+[32m[124278.086686] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124278.087233] [0mCPU5 is up
+[32m[124278.087719] [0mDetected VIPT I-cache on CPU6
+[32m[124278.087798] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124278.088404] [0mCPU6 is up
+[32m[124278.088995] [0mDetected VIPT I-cache on CPU7
+[32m[124278.089074] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124278.089786] [0mCPU7 is up
+[32m[124278.091648] [33mPM[0m: noirq resume of devices complete after 1.756 msecs
+[32m[124278.103142] [33mPM[0m: early resume of devices complete after 9.842 msecs
+[32m[124278.114148] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124278.114645] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124278.156016] [33mPM[0m: resume of devices complete after 52.856 msecs
+[32m[124278.158871] [33mPM[0m: Finishing wakeup.
+[32m[124278.158884] [0mRestarting tasks ... done.
+[32m[124278.169808] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124278.169902] [33mPM[0m: suspend exit 2018-07-07 13:25:01.946078369 UTC
+[32m[124278.270236] [33mPM[0m: suspend entry 2018-07-07 13:25:02.046416348 UTC
+[32m[124278.270251] [33mPM[0m: Preparing system for mem sleep
+[32m[124278.271116] [0mFreezing user space processes ... (elapsed 0.006 seconds) done.
+[32m[124278.277576] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124278.281252] [33mPM[0m: Entering mem sleep
+[32m[124278.281259] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124278.285638] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124278.307405] [33mPM[0m: suspend of devices complete after 24.791 msecs
+[32m[124278.309397] [33mPM[0m: late suspend of devices complete after 1.984 msecs
+[32m[124278.312888] [33mPM[0m: noirq suspend of devices complete after 3.486 msecs
+[32m[124278.312898] [0mDisabling non-boot CPUs ...
+[32m[124278.324886] [33msuspend ns[0m:  124278324875210\x09suspend cycles:    2622556991874
+[32m[124278.324875] [33mresume cycles[0m:    2622998622160
+[32m[124278.325105] [0mEnabling non-boot CPUs ...
+[32m[124278.325654] [0mDetected VIPT I-cache on CPU1
+[32m[124278.325727] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124278.326062] [0mCPU1 is up
+[32m[124278.326463] [0mDetected VIPT I-cache on CPU2
+[32m[124278.326523] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124278.326814] [0mCPU2 is up
+[32m[124278.327179] [0mDetected VIPT I-cache on CPU3
+[32m[124278.327238] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124278.327508] [0mCPU3 is up
+[32m[124278.327911] [0mDetected VIPT I-cache on CPU4
+[32m[124278.327985] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124278.328399] [0mCPU4 is up
+[32m[124278.328809] [0mDetected VIPT I-cache on CPU5
+[32m[124278.328863] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124278.329170] [0mCPU5 is up
+[32m[124278.329522] [0mDetected VIPT I-cache on CPU6
+[32m[124278.329577] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124278.329896] [0mCPU6 is up
+[32m[124278.330246] [0mDetected VIPT I-cache on CPU7
+[32m[124278.330301] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124278.330679] [0mCPU7 is up
+[32m[124278.331709] [33mPM[0m: noirq resume of devices complete after 0.973 msecs
+[32m[124278.342986] [33mPM[0m: early resume of devices complete after 10.194 msecs
+[32m[124278.351872] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124278.352149] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124278.393990] [33mPM[0m: resume of devices complete after 50.994 msecs
+[32m[124278.395687] [33mPM[0m: Finishing wakeup.
+[32m[124278.395694] [0mRestarting tasks ... done.
+[32m[124278.406486] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124278.406593] [33mPM[0m: suspend exit 2018-07-07 13:25:25.184346039 UTC
+[32m[124278.507312] [33mPM[0m: suspend entry 2018-07-07 13:25:25.285060164 UTC
+[32m[124278.507343] [33mPM[0m: Preparing system for mem sleep
+[32m[124278.509070] [0mFreezing user space processes ... (elapsed 0.012 seconds) done.
+[32m[124278.521761] [0mFreezing remaining freezable tasks ... (elapsed 0.006 seconds) done.
+[32m[124278.527857] [33mPM[0m: Entering mem sleep
+[32m[124278.527874] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124278.537589] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124278.570432] [33mPM[0m: suspend of devices complete after 39.667 msecs
+[32m[124278.576102] [33mPM[0m: late suspend of devices complete after 5.646 msecs
+[32m[124278.584695] [33mPM[0m: noirq suspend of devices complete after 8.578 msecs
+[32m[124278.584721] [0mDisabling non-boot CPUs ...
+[32m[124278.627349] [33msuspend ns[0m:  124278627319221\x09suspend cycles:    2623004429085
+[32m[124278.627319] [33mresume cycles[0m:    2623468457624
+[32m[124278.632108] [0mEnabling non-boot CPUs ...
+[32m[124278.632733] [0mDetected VIPT I-cache on CPU1
+[32m[124278.632872] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124278.633825] [0mCPU1 is up
+[32m[124278.634583] [0mDetected VIPT I-cache on CPU2
+[32m[124278.634716] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124278.635597] [0mCPU2 is up
+[32m[124278.636362] [0mDetected VIPT I-cache on CPU3
+[32m[124278.636499] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124278.637325] [0mCPU3 is up
+[32m[124278.638159] [0mDetected VIPT I-cache on CPU4
+[32m[124278.638340] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124278.639351] [0mCPU4 is up
+[32m[124278.640081] [0mDetected VIPT I-cache on CPU5
+[32m[124278.640191] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124278.641103] [0mCPU5 is up
+[32m[124278.641808] [0mDetected VIPT I-cache on CPU6
+[32m[124278.641918] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124278.642925] [0mCPU6 is up
+[32m[124278.643612] [0mDetected VIPT I-cache on CPU7
+[32m[124278.643724] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124278.644817] [0mCPU7 is up
+[32m[124278.648099] [33mPM[0m: noirq resume of devices complete after 3.012 msecs
+[32m[124278.663947] [33mPM[0m: early resume of devices complete after 13.356 msecs
+[32m[124278.679511] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124278.680266] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124278.720747] [33mPM[0m: resume of devices complete after 56.773 msecs
+[32m[124278.724814] [33mPM[0m: Finishing wakeup.
+[32m[124278.724832] [0mRestarting tasks ... done.
+[32m[124278.736742] [33mPM[0m: suspend exit 2018-07-07 13:25:49.682644760 UTC
+[32m[124278.838201] [33mPM[0m: suspend entry 2018-07-07 13:25:49.784102062 UTC
+[32m[124278.838232] [33mPM[0m: Preparing system for mem sleep
+[32m[124278.840001] [0mFreezing user space processes ... (elapsed 0.012 seconds) done.
+[32m[124278.852705] [0mFreezing remaining freezable tasks ... (elapsed 0.005 seconds) done.
+[32m[124278.858743] [33mPM[0m: Entering mem sleep
+[32m[124278.858760] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124278.869282] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124278.898559] [33mPM[0m: suspend of devices complete after 36.903 msecs
+[32m[124278.904151] [33mPM[0m: late suspend of devices complete after 5.568 msecs
+[32m[124278.912810] [33mPM[0m: noirq suspend of devices complete after 8.642 msecs
+[32m[124278.912836] [0mDisabling non-boot CPUs ...
+[32m[124278.943452] [33msuspend ns[0m:  124278943422607\x09suspend cycles:    2623474526809
+[32m[124278.943422] [33mresume cycles[0m:    2623954581833
+[32m[124278.944056] [0mEnabling non-boot CPUs ...
+[32m[124278.944837] [0mDetected VIPT I-cache on CPU1
+[32m[124278.944995] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124278.945948] [0mCPU1 is up
+[32m[124278.946769] [0mDetected VIPT I-cache on CPU2
+[32m[124278.946895] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124278.947709] [0mCPU2 is up
+[32m[124278.948451] [0mDetected VIPT I-cache on CPU3
+[32m[124278.948569] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124278.949305] [0mCPU3 is up
+[32m[124278.950092] [0mDetected VIPT I-cache on CPU4
+[32m[124278.950258] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124278.951151] [0mCPU4 is up
+[32m[124278.952007] [0mDetected VIPT I-cache on CPU5
+[32m[124278.952114] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124278.952997] [0mCPU5 is up
+[32m[124278.953733] [0mDetected VIPT I-cache on CPU6
+[32m[124278.953845] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124278.954865] [0mCPU6 is up
+[32m[124278.955579] [0mDetected VIPT I-cache on CPU7
+[32m[124278.955690] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124278.956820] [0mCPU7 is up
+[32m[124278.960128] [33mPM[0m: noirq resume of devices complete after 3.103 msecs
+[32m[124278.976177] [33mPM[0m: early resume of devices complete after 13.455 msecs
+[32m[124278.991385] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124278.992204] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124279.033762] [33mPM[0m: resume of devices complete after 57.561 msecs
+[32m[124279.037239] [33mPM[0m: Finishing wakeup.
+[32m[124279.037258] [0mRestarting tasks ... 
+[32m[124279.047837] [33mhealthd[0m: battery l=99 v=4324 t=30.0 h=2 st=3 c=289 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124279.049274] [0mdone.
+[32m[124279.049557] [33mPM[0m: suspend exit 2018-07-07 13:26:14.998328219 UTC
+[32m[124279.153492] [33mPM[0m: suspend entry 2018-07-07 13:26:15.102258281 UTC
+[32m[124279.153522] [33mPM[0m: Preparing system for mem sleep
+[32m[124279.155305] [0mFreezing user space processes ... (elapsed 0.012 seconds) done.
+[32m[124279.167807] [0mFreezing remaining freezable tasks ... (elapsed 0.006 seconds) done.
+[32m[124279.173975] [33mPM[0m: Entering mem sleep
+[32m[124279.173992] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124279.183660] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124279.210772] [33mPM[0m: suspend of devices complete after 33.878 msecs
+[32m[124279.216562] [33mPM[0m: late suspend of devices complete after 5.765 msecs
+[32m[124279.225269] [33mPM[0m: noirq suspend of devices complete after 8.690 msecs
+[32m[124279.225296] [0mDisabling non-boot CPUs ...
+[32m[124279.256509] [33msuspend ns[0m:  124279256479222\x09suspend cycles:    2623960592520
+[32m[124279.256479] [33mresume cycles[0m:    2624654120642
+[32m[124279.260487] [0mEnabling non-boot CPUs ...
+[32m[124279.261207] [0mDetected VIPT I-cache on CPU1
+[32m[124279.261346] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124279.262171] [0mCPU1 is up
+[32m[124279.262897] [0mDetected VIPT I-cache on CPU2
+[32m[124279.263014] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124279.265724] [0mCPU2 is up
+[32m[124279.266584] [0mDetected VIPT I-cache on CPU3
+[32m[124279.266730] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124279.267553] [0mCPU3 is up
+[32m[124279.268475] [0mDetected VIPT I-cache on CPU4
+[32m[124279.268642] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124279.269545] [0mCPU4 is up
+[32m[124279.270295] [0mDetected VIPT I-cache on CPU5
+[32m[124279.270405] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124279.271366] [0mCPU5 is up
+[32m[124279.272080] [0mDetected VIPT I-cache on CPU6
+[32m[124279.272192] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124279.273168] [0mCPU6 is up
+[32m[124279.273879] [0mDetected VIPT I-cache on CPU7
+[32m[124279.273989] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124279.275160] [0mCPU7 is up
+[32m[124279.278443] [33mPM[0m: noirq resume of devices complete after 3.080 msecs
+[32m[124279.297475] [33mPM[0m: early resume of devices complete after 16.720 msecs
+[32m[124279.314038] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124279.314876] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124279.356768] [33mPM[0m: resume of devices complete after 59.269 msecs
+[32m[124279.360779] [33mPM[0m: Finishing wakeup.
+[32m[124279.360798] [0mRestarting tasks ... done.
+[32m[124279.372145] [33mPM[0m: suspend exit 2018-07-07 13:26:51.442172299 UTC
+[32m[124279.473932] [33mPM[0m: suspend entry 2018-07-07 13:26:51.543954914 UTC
+[32m[124279.473963] [33mPM[0m: Preparing system for mem sleep
+[32m[124279.475695] [0mFreezing user space processes ... (elapsed 0.012 seconds) done.
+[32m[124279.488454] [0mFreezing remaining freezable tasks ... (elapsed 0.005 seconds) done.
+[32m[124279.494382] [33mPM[0m: Entering mem sleep
+[32m[124279.494400] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124279.503825] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124279.525529] [33mPM[0m: suspend of devices complete after 28.235 msecs
+[32m[124279.530139] [33mPM[0m: late suspend of devices complete after 4.594 msecs
+[32m[124279.536687] [33mPM[0m: noirq suspend of devices complete after 6.535 msecs
+[32m[124279.536706] [0mDisabling non-boot CPUs ...
+[32m[124279.559907] [33msuspend ns[0m:  124279559888285\x09suspend cycles:    2624659946096
+[32m[124279.559888] [33mresume cycles[0m:    2625218963094
+[32m[124279.560539] [0mEnabling non-boot CPUs ...
+[32m[124279.561009] [0mDetected VIPT I-cache on CPU1
+[32m[124279.561118] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124279.561971] [0mCPU1 is up
+[32m[124279.562539] [0mDetected VIPT I-cache on CPU2
+[32m[124279.562631] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124279.563296] [0mCPU2 is up
+[32m[124279.563803] [0mDetected VIPT I-cache on CPU3
+[32m[124279.563888] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124279.564571] [0mCPU3 is up
+[32m[124279.565144] [0mDetected VIPT I-cache on CPU4
+[32m[124279.565278] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124279.566055] [0mCPU4 is up
+[32m[124279.566575] [0mDetected VIPT I-cache on CPU5
+[32m[124279.566661] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124279.567468] [0mCPU5 is up
+[32m[124279.567977] [0mDetected VIPT I-cache on CPU6
+[32m[124279.568060] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124279.568949] [0mCPU6 is up
+[32m[124279.569482] [0mDetected VIPT I-cache on CPU7
+[32m[124279.569585] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124279.570621] [0mCPU7 is up
+[32m[124279.573142] [33mPM[0m: noirq resume of devices complete after 2.369 msecs
+[32m[124279.586531] [33mPM[0m: early resume of devices complete after 11.427 msecs
+[32m[124279.598975] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124279.599735] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124279.643817] [33mPM[0m: resume of devices complete after 57.262 msecs
+[32m[124279.647852] [33mPM[0m: Finishing wakeup.
+[32m[124279.647870] [0mRestarting tasks ... done.
+[32m[124279.660228] [33mPM[0m: suspend exit 2018-07-07 13:27:20.845725702 UTC
+[32m[124279.739224] [0mmdss_dsi_on[0]+.
+[32m[124279.787703] [0mmdss_dsi_panel_on[0]+.
+[32m[124279.888659] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124279.926246] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124282.659725] [33m[09:27:23.845226] [000002633ECA8DBB] [VosRX]  wlan[31m: [E :WDI] WDTS_RxPacketDump RX Data frame is UC
+[32m[124282.659743] [33m[09:27:23.845249] [000002633ECA8F67] [VosRX]  wlan[31m: [E :WDI] WDTS_RxPacketDump: Management subtype:5 SA:70:3a:0e:bf:70:c1 DA:30:4b:07:d8:2d:e9
+[32m[124283.709164] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124283.709200] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124283.709219] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124283.709224] [33m->action()[0m:           (null)
+[32m[124283.709227] [0mIRQ_NOPROBE set
+[32m[124283.709230] [0mIRQ_NOREQUEST set
+[32m[124283.709233] [0mIRQ_NOTHREAD set
+[32m[124283.718912] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124283.778137] [0mmdss_dsi_panel_off[0]+.
+[32m[124283.912145] [0mmdss_dsi_off[0]+.
+[32m[124283.943992] [33mactive wakeup source[0m: wlan
+[32m[124284.580002] [0mmdss_dsi_on[0]+.
+[32m[124284.628160] [0mmdss_dsi_panel_on[0]+.
+[32m[124284.729120] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124284.766911] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124288.551490] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124288.551525] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124288.551543] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124288.551548] [33m->action()[0m:           (null)
+[32m[124288.551552] [0mIRQ_NOPROBE set
+[32m[124288.551555] [0mIRQ_NOREQUEST set
+[32m[124288.551557] [0mIRQ_NOTHREAD set
+[32m[124288.560882] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124288.621382] [0mmdss_dsi_panel_off[0]+.
+[32m[124288.752226] [0mmdss_dsi_off[0]+.
+[32m[124288.775369] [33mactive wakeup source[0m: PowerManagerService.Display
+[32m[124289.176823] [33mPM[0m: suspend entry 2018-07-07 13:27:30.362308473 UTC
+[32m[124289.176868] [33mPM[0m: Preparing system for mem sleep
+[32m[124289.179381] [0mFreezing user space processes ... (elapsed 0.016 seconds) done.
+[32m[124289.195644] [0mFreezing remaining freezable tasks ... (elapsed 0.008 seconds) done.
+[32m[124289.204113] [33mPM[0m: Entering mem sleep
+[32m[124289.204134] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124289.216200] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124289.242000] [33mPM[0m: suspend of devices complete after 34.057 msecs
+[32m[124289.248181] [33mPM[0m: late suspend of devices complete after 6.160 msecs
+[32m[124289.258416] [33mPM[0m: noirq suspend of devices complete after 10.220 msecs
+[32m[124289.258444] [0mDisabling non-boot CPUs ...
+[32m[124289.260139] [33mmigrate_irqs[0m: 18638 callbacks suppressed
+[32m[124289.260146] [0mIRQ7 no longer affine to CPU1
+[32m[124289.260154] [0mIRQ8 no longer affine to CPU1
+[32m[124289.260162] [0mIRQ9 no longer affine to CPU1
+[32m[124289.260169] [0mIRQ10 no longer affine to CPU1
+[32m[124289.260177] [0mIRQ11 no longer affine to CPU1
+[32m[124289.260185] [0mIRQ12 no longer affine to CPU1
+[32m[124289.260192] [0mIRQ13 no longer affine to CPU1
+[32m[124289.260199] [0mIRQ14 no longer affine to CPU1
+[32m[124289.260206] [0mIRQ15 no longer affine to CPU1
+[32m[124289.260214] [0mIRQ16 no longer affine to CPU1
+[32m[124289.292023] [33msuspend ns[0m:  124289292003627\x09suspend cycles:    2625405819708
+[32m[124289.292003] [33mresume cycles[0m:    2625502625547
+[32m[124289.292903] [0mEnabling non-boot CPUs ...
+[32m[124289.293567] [0mDetected VIPT I-cache on CPU1
+[32m[124289.293711] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124289.294704] [0mCPU1 is up
+[32m[124289.295405] [0mDetected VIPT I-cache on CPU2
+[32m[124289.295518] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124289.296292] [0mCPU2 is up
+[32m[124289.296905] [0mDetected VIPT I-cache on CPU3
+[32m[124289.297004] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124289.298072] [0mCPU3 is up
+[32m[124289.298808] [0mDetected VIPT I-cache on CPU4
+[32m[124289.298959] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124289.299857] [0mCPU4 is up
+[32m[124289.300492] [0mDetected VIPT I-cache on CPU5
+[32m[124289.300586] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124289.301529] [0mCPU5 is up
+[32m[124289.302167] [0mDetected VIPT I-cache on CPU6
+[32m[124289.302263] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124289.303227] [0mCPU6 is up
+[32m[124289.303932] [0mDetected VIPT I-cache on CPU7
+[32m[124289.304043] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124289.305221] [0mCPU7 is up
+[32m[124289.308545] [33mPM[0m: noirq resume of devices complete after 3.129 msecs
+[32m[124289.327181] [33mPM[0m: early resume of devices complete after 16.329 msecs
+[32m[124289.343974] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124289.344805] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124289.386731] [33mPM[0m: resume of devices complete after 59.526 msecs
+[32m[124289.390322] [33mPM[0m: Finishing wakeup.
+[32m[124289.390341] [0mRestarting tasks ... done.
+[32m[124289.402385] [33mPM[0m: suspend exit 2018-07-07 13:27:35.629853129 UTC
+[32m[124289.503761] [33mPM[0m: suspend entry 2018-07-07 13:27:35.731224545 UTC
+[32m[124289.503792] [33mPM[0m: Preparing system for mem sleep
+[32m[124289.505555] [0mFreezing user space processes ... (elapsed 0.012 seconds) done.
+[32m[124289.518135] [0mFreezing remaining freezable tasks ... (elapsed 0.005 seconds) done.
+[32m[124289.524047] [33mPM[0m: Entering mem sleep
+[32m[124289.524064] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124289.534796] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124289.559457] [33mPM[0m: suspend of devices complete after 32.492 msecs
+[32m[124289.565783] [33mPM[0m: late suspend of devices complete after 6.306 msecs
+[32m[124289.574178] [33mPM[0m: noirq suspend of devices complete after 8.382 msecs
+[32m[124289.574206] [0mDisabling non-boot CPUs ...
+[32m[124289.605353] [33msuspend ns[0m:  124289605323940\x09suspend cycles:    2625508641297
+[32m[124289.605323] [33mresume cycles[0m:    2625712210780
+[32m[124289.606328] [0mEnabling non-boot CPUs ...
+[32m[124289.607003] [0mDetected VIPT I-cache on CPU1
+[32m[124289.607148] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124289.608146] [0mCPU1 is up
+[32m[124289.608867] [0mDetected VIPT I-cache on CPU2
+[32m[124289.608979] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124289.609777] [0mCPU2 is up
+[32m[124289.610398] [0mDetected VIPT I-cache on CPU3
+[32m[124289.610497] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124289.611819] [0mCPU3 is up
+[32m[124289.612543] [0mDetected VIPT I-cache on CPU4
+[32m[124289.612699] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124289.613588] [0mCPU4 is up
+[32m[124289.614194] [0mDetected VIPT I-cache on CPU5
+[32m[124289.614287] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124289.615211] [0mCPU5 is up
+[32m[124289.615808] [0mDetected VIPT I-cache on CPU6
+[32m[124289.615903] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124289.616854] [0mCPU6 is up
+[32m[124289.617494] [0mDetected VIPT I-cache on CPU7
+[32m[124289.617586] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124289.618732] [0mCPU7 is up
+[32m[124289.622038] [33mPM[0m: noirq resume of devices complete after 3.135 msecs
+[32m[124289.637785] [33mPM[0m: early resume of devices complete after 13.422 msecs
+[32m[124289.653576] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124289.654385] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124289.696728] [33mPM[0m: resume of devices complete after 58.917 msecs
+[32m[124289.700772] [33mPM[0m: Finishing wakeup.
+[32m[124289.700791] [0mRestarting tasks ... done.
+[32m[124289.712389] [33mPM[0m: suspend exit 2018-07-07 13:27:46.542435394 UTC
+[32m[124289.782240] [0mmdss_dsi_on[0]+.
+[32m[124289.830054] [0mmdss_dsi_panel_on[0]+.
+[32m[124289.930850] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124289.968280] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124293.751479] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124293.751493] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124293.751501] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124293.751502] [33m->action()[0m:           (null)
+[32m[124293.751504] [0mIRQ_NOPROBE set
+[32m[124293.751505] [0mIRQ_NOREQUEST set
+[32m[124293.751505] [0mIRQ_NOTHREAD set
+[32m[124293.761194] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124293.821117] [0mmdss_dsi_panel_off[0]+.
+[32m[124293.951715] [0mmdss_dsi_off[0]+.
+[32m[124293.973677] [33mactive wakeup source[0m: PowerManagerService.Display
+[32m[124294.174274] [33mPM[0m: suspend entry 2018-07-07 13:27:51.004324954 UTC
+[32m[124294.174293] [33mPM[0m: Preparing system for mem sleep
+[32m[124294.175312] [0mFreezing user space processes ... (elapsed 0.006 seconds) done.
+[32m[124294.182283] [0mFreezing remaining freezable tasks ... (elapsed 0.003 seconds) done.
+[32m[124294.185966] [33mPM[0m: Entering mem sleep
+[32m[124294.185973] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124294.190354] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124294.201553] [33mPM[0m: suspend of devices complete after 14.280 msecs
+[32m[124294.203699] [33mPM[0m: late suspend of devices complete after 2.138 msecs
+[32m[124294.208575] [33mPM[0m: noirq suspend of devices complete after 4.871 msecs
+[32m[124294.208586] [0mDisabling non-boot CPUs ...
+[32m[124294.221037] [33msuspend ns[0m:  124294221029370\x09suspend cycles:    2625800832324
+[32m[124294.221029] [33mresume cycles[0m:    2625816925159
+[32m[124294.221377] [0mEnabling non-boot CPUs ...
+[32m[124294.221671] [0mDetected VIPT I-cache on CPU1
+[32m[124294.221729] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124294.222042] [0mCPU1 is up
+[32m[124294.222335] [0mDetected VIPT I-cache on CPU2
+[32m[124294.222380] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124294.222643] [0mCPU2 is up
+[32m[124294.222917] [0mDetected VIPT I-cache on CPU3
+[32m[124294.222959] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124294.223203] [0mCPU3 is up
+[32m[124294.223517] [0mDetected VIPT I-cache on CPU4
+[32m[124294.223575] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124294.223869] [0mCPU4 is up
+[32m[124294.224136] [0mDetected VIPT I-cache on CPU5
+[32m[124294.224175] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124294.224477] [0mCPU5 is up
+[32m[124294.224738] [0mDetected VIPT I-cache on CPU6
+[32m[124294.224778] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124294.225100] [0mCPU6 is up
+[32m[124294.225365] [0mDetected VIPT I-cache on CPU7
+[32m[124294.225404] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124294.225789] [0mCPU7 is up
+[32m[124294.226905] [33mPM[0m: noirq resume of devices complete after 1.060 msecs
+[32m[124294.236222] [33mPM[0m: early resume of devices complete after 8.235 msecs
+[32m[124294.245526] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124294.245788] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124294.286169] [33mPM[0m: resume of devices complete after 49.939 msecs
+[32m[124294.287790] [33mPM[0m: Finishing wakeup.
+[32m[124294.287798] [0mRestarting tasks ... done.
+[32m[124294.295025] [33mcpufreq[0m: Frequency violation fixed for CPU0
+[32m[124294.295126] [33mPM[0m: suspend exit 2018-07-07 13:27:51.963341840 UTC
+[32m[124294.359631] [0mmdss_dsi_on[0]+.
+[32m[124294.408437] [0mmdss_dsi_panel_on[0]+.
+[32m[124294.508934] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124294.544294] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124295.110655] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124295.110669] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124295.110692] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124295.110707] [33m->action()[0m:           (null)
+[32m[124295.110712] [0mIRQ_NOPROBE set
+[32m[124295.110717] [0mIRQ_NOREQUEST set
+[32m[124295.110722] [0mIRQ_NOTHREAD set
+[32m[124296.379962] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124296.379979] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124296.380004] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124296.380020] [33m->action()[0m:           (null)
+[32m[124296.380025] [0mIRQ_NOPROBE set
+[32m[124296.380030] [0mIRQ_NOREQUEST set
+[32m[124296.380035] [0mIRQ_NOTHREAD set
+[32m[124296.413600] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124296.413616] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124296.413641] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124296.413658] [33m->action()[0m:           (null)
+[32m[124296.413664] [0mIRQ_NOPROBE set
+[32m[124296.413669] [0mIRQ_NOREQUEST set
+[32m[124296.413673] [0mIRQ_NOTHREAD set
+[32m[124298.320387] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124298.320443] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124298.320472] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124298.320479] [33m->action()[0m:           (null)
+[32m[124298.320483] [0mIRQ_NOPROBE set
+[32m[124298.320486] [0mIRQ_NOREQUEST set
+[32m[124298.320488] [0mIRQ_NOTHREAD set
+[32m[124298.337103] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124298.394802] [0mmdss_dsi_panel_off[0]+.
+[32m[124298.527251] [0mmdss_dsi_off[0]+.
+[32m[124298.558055] [33mactive wakeup source[0m: PowerManagerService.Display
+[32m[124298.558267] [33mactive wakeup source[0m: qpnp_fg_update_sram
+[32m[124298.558281] [33mactive wakeup source[0m: qpnp_fg_memaccess
+[32m[124299.490919] [33mPM[0m: suspend entry 2018-07-07 13:27:57.159117774 UTC
+[32m[124299.490964] [33mPM[0m: Preparing system for mem sleep
+[32m[124299.493445] [0mFreezing user space processes ... (elapsed 0.016 seconds) done.
+[32m[124299.509765] [0mFreezing remaining freezable tasks ... (elapsed 0.008 seconds) done.
+[32m[124299.518529] [33mPM[0m: Entering mem sleep
+[32m[124299.518550] [0mSuspending console(s) (use no_console_suspend to debug)
+[32m[124299.530346] [33mSX9310 sx9310 suspend[0m: disable irq!
+[32m[124299.559593] [33mPM[0m: suspend of devices complete after 37.148 msecs
+[32m[124299.565937] [33mPM[0m: late suspend of devices complete after 6.322 msecs
+[32m[124299.576315] [33mPM[0m: noirq suspend of devices complete after 10.364 msecs
+[32m[124299.576341] [0mDisabling non-boot CPUs ...
+[32m[124299.578393] [33mmigrate_irqs[0m: 9314 callbacks suppressed
+[32m[124299.578401] [0mIRQ7 no longer affine to CPU1
+[32m[124299.578409] [0mIRQ8 no longer affine to CPU1
+[32m[124299.578415] [0mIRQ9 no longer affine to CPU1
+[32m[124299.578422] [0mIRQ10 no longer affine to CPU1
+[32m[124299.578430] [0mIRQ11 no longer affine to CPU1
+[32m[124299.578438] [0mIRQ12 no longer affine to CPU1
+[32m[124299.578446] [0mIRQ13 no longer affine to CPU1
+[32m[124299.578453] [0mIRQ14 no longer affine to CPU1
+[32m[124299.578460] [0mIRQ15 no longer affine to CPU1
+[32m[124299.578467] [0mIRQ16 no longer affine to CPU1
+[32m[124299.620276] [33msuspend ns[0m:  124299620254386\x09suspend cycles:    2625920590279
+[32m[124299.620254] [33mresume cycles[0m:    2625945884699
+[32m[124299.621488] [0mEnabling non-boot CPUs ...
+[32m[124299.622135] [0mDetected VIPT I-cache on CPU1
+[32m[124299.622278] [33mCPU1[0m: Booted secondary processor [410fd034]
+[32m[124299.623182] [0mCPU1 is up
+[32m[124299.623919] [0mDetected VIPT I-cache on CPU2
+[32m[124299.624029] [33mCPU2[0m: Booted secondary processor [410fd034]
+[32m[124299.624854] [0mCPU2 is up
+[32m[124299.625511] [0mDetected VIPT I-cache on CPU3
+[32m[124299.625618] [33mCPU3[0m: Booted secondary processor [410fd034]
+[32m[124299.626345] [0mCPU3 is up
+[32m[124299.627011] [0mDetected VIPT I-cache on CPU4
+[32m[124299.627163] [33mCPU4[0m: Booted secondary processor [410fd034]
+[32m[124299.628115] [0mCPU4 is up
+[32m[124299.628732] [0mDetected VIPT I-cache on CPU5
+[32m[124299.628826] [33mCPU5[0m: Booted secondary processor [410fd034]
+[32m[124299.629717] [0mCPU5 is up
+[32m[124299.630331] [0mDetected VIPT I-cache on CPU6
+[32m[124299.630425] [33mCPU6[0m: Booted secondary processor [410fd034]
+[32m[124299.631435] [0mCPU6 is up
+[32m[124299.632037] [0mDetected VIPT I-cache on CPU7
+[32m[124299.632132] [33mCPU7[0m: Booted secondary processor [410fd034]
+[32m[124299.633240] [0mCPU7 is up
+[32m[124299.636520] [33mPM[0m: noirq resume of devices complete after 3.109 msecs
+[32m[124299.652761] [33mPM[0m: early resume of devices complete after 13.743 msecs
+[32m[124299.671468] [33minput input7[0m: gpio-keys report volume_up [0x73] type 0x1 state Off
+[32m[124299.672214] [33mSX9310 sx9310 resume[0m: enable irq!
+[32m[124299.709550] [33mPM[0m: resume of devices complete after 56.766 msecs
+[32m[124299.713545] [33mPM[0m: Finishing wakeup.
+[32m[124299.713563] [0mRestarting tasks ... done.
+[32m[124299.725604] [33mPM[0m: suspend exit 2018-07-07 13:27:58.711236338 UTC
+[32m[124299.807348] [0mmdss_dsi_on[0]+.
+[32m[124299.856199] [0mmdss_dsi_panel_on[0]+.
+[32m[124299.957091] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124299.994896] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124302.276546] [33mhealthd[0m: battery l=99 v=4350 t=30.0 h=2 st=3 c=86 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124302.423522] [33mhealthd[0m: battery l=99 v=4350 t=30.0 h=2 st=3 c=86 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124302.441012] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 300 mA, USBC CL 500 mA, DC 900 mA
+[32m[124302.441203] [33msmbchg_heartbeat_work[0m: Step State = NONE, BSW Mode OFF, EB State DISCONN
+[32m[124302.441248] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=255
+[32m[124302.447437] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124302.522620] [33mSX9310 ps notification[0m: event = 0
+[32m[124302.522641] [0mSX9310 usb is not present
+[32m[124302.522649] [0mSX9310 ps present state not change
+[32m[124302.525063] [33msmbchg_force_apsd[0m: Start APSD Rerun!
+[32m[124302.534409] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124302.542726] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124302.571528] [33msmbchg_rate_check[31m: Normal Charger Detected
+[32m[124303.388483] [33msrc_detect_handler[31m: chip->usb_present = 0 usb_present = 1
+[32m[124303.389696] [33mSX9310 ps notification[0m: event = 0
+[32m[124303.389715] [0mSX9310 usb is present
+[32m[124303.389994] [33msmbchg_heartbeat_work[0m: HB Ran, during hvdcp detection!
+[32m[124303.391597] [0mSX9310 Usb insert,going to force calibrate
+[32m[124303.392989] [33mSX9310 ps notification[0m: event = 0
+[32m[124303.393006] [0mSX9310 usb is present
+[32m[124303.393019] [0mSX9310 ps present state not change
+[32m[124303.402281] [33mmsm-dwc3 7000000.ssusb[0m: DWC3 exited from low power mode
+[32m[124303.410097] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124303.424441] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124303.428560] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124303.432128] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124303.436114] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124303.440958] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124303.534802] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124303.601861] [33mlogd[0m: logdr: UID=10024 GID=10024 PID=3078 n tail=0 logMask=4 pid=0 start=0ns timeout=0ns
+[32m[124303.668161] [33mi2c-msm-v2 7af5000.i2c[31m: NACK: slave not responding, ensure its powered: msgs(n:1 cur:0 tx) bc(rx:0 tx:4) mode:FIFO slv_addr:0x28 MSTR_STS:0x0d1300c8 OPER:0x00000090
+[32m[124303.669868] [33m[09:28:02.655504] [000002636B34C075] [VosRX]  wlan[31m: [E :WDI] WDTS_RxPacketDump RX Data frame is UC
+[32m[124303.669886] [33m[09:28:02.655529] [000002636B34C23C] [VosRX]  wlan[31m: [E :WDI] WDTS_RxPacketDump: Management subtype:5 SA:70:3a:0e:bf:70:c1 DA:30:4b:07:d8:2d:e9
+[32m[124303.750384] [33mandroid_work[0m: android_work: sent uevent USB_STATE=CONNECTED
+[32m[124303.753939] [33mandroid_work[0m: android_work: sent uevent USB_STATE=DISCONNECTED
+[32m[124303.878045] [33mandroid_work[0m: android_work: sent uevent USB_STATE=CONNECTED
+[32m[124303.879312] [33mandroid_usb gadget[0m: high-speed config #1: 86000c8.android_usb
+[32m[124303.879423] [33mmsm-dwc3 7000000.ssusb[0m: Avail curr from USB = 500
+[32m[124303.930725] [33mandroid_work[0m: android_work: sent uevent USB_STATE=CONFIGURED
+[32m[124303.934016] [33mSX9310 ps notification[0m: event = 0
+[32m[124303.934024] [0mSX9310 usb is present
+[32m[124303.934028] [0mSX9310 ps present state not change
+[32m[124303.938851] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124303.949071] [33mhealthd[0m: battery l=99 v=4347 t=30.0 h=2 st=3 c=112 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124305.956522] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124305.956536] [33msmbchg_heartbeat_work[0m: Step State = SECOND, BSW Mode OFF, EB State DISCONN
+[32m[124305.956554] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=1
+[32m[124305.969359] [33mhealthd[0m: battery l=99 v=4358 t=30.2 h=2 st=2 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124306.055324] [33mFG[0m: fg_vbat_est_check: vbat(4358495),est-vbat(4363835),diff(5340),threshold(300000)
+[32m[124306.057713] [33mFG[0m: update_esr_value: ESR: update esr from 0x4120391f391f3019 to 0x58cd4a6761c34a67
+[32m[124306.061674] [33mhealthd[0m: battery l=99 v=4358 t=30.2 h=2 st=2 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124306.088688] [33mmsm-dwc3 7000000.ssusb[0m: Avail curr from USB = 2
+[32m[124306.096739] [33mFG[0m: fg_vbat_est_check: vbat(4358495),est-vbat(4363835),diff(5340),threshold(300000)
+[32m[124306.102305] [33mhealthd[0m: battery l=99 v=4358 t=30.2 h=2 st=3 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124306.144016] [33mSX9310 ps notification[0m: event = 0
+[32m[124306.144030] [0mSX9310 usb is present
+[32m[124306.144034] [0mSX9310 ps present state not change
+[32m[124306.160076] [33mhealthd[0m: battery l=99 v=4358 t=30.2 h=2 st=3 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124306.169220] [33mhealthd[0m: battery l=99 v=4358 t=30.2 h=2 st=3 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124307.710047] [33mRequested rate[0m: 48000, sample size: 16, physical size: 16
+[32m[124307.710062] [0mmixer profile:container profile = [0:0]
+[32m[124307.743074] [33mi2c-msm-v2 7af5000.i2c[31m: NACK: slave not responding, ensure its powered: msgs(n:1 cur:0 tx) bc(rx:0 tx:4) mode:FIFO slv_addr:0x28 MSTR_STS:0x0d1300c8 OPER:0x00000090
+[32m[124307.749662] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 0
+[32m[124307.750092] [0mActive_profile:speaker, next_profile:speaker
+[32m[124307.750443] [0mStartup of device [Q] is a warmstart
+[32m[124307.752240] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124307.752253] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124307.752274] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124307.752289] [33m->action()[0m:           (null)
+[32m[124307.752294] [0mIRQ_NOPROBE set
+[32m[124307.752297] [0mIRQ_NOREQUEST set
+[32m[124307.752300] [0mIRQ_NOTHREAD set
+[32m[124307.754370] [33mRequested rate[0m: 48000, sample size: 16, physical size: 16
+[32m[124307.754396] [0mmixer profile:container profile = [0:0]
+[32m[124307.762877] [33mtfa98xx 2-0034[0m: tfa_dev_start success (0)
+[32m[124307.772419] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 0
+[32m[124307.772994] [33mtfa98xx 2-0034[31m: tfa98xx_adsp_send_calib_values: cal value 0x71a1c
+[32m[124308.244111] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124308.244123] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124308.244141] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124308.244157] [33m->action()[0m:           (null)
+[32m[124308.244161] [0mIRQ_NOPROBE set
+[32m[124308.244164] [0mIRQ_NOREQUEST set
+[32m[124308.244168] [0mIRQ_NOTHREAD set
+[32m[124310.981594] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 1
+[32m[124311.025900] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 1
+[32m[124313.628702] [33mevent_handler[0m: reclaimed all bufs
+[32m[124314.652214] [33minit[0m: processing action (sys.usb.config=none && sys.usb.configfs=0) from (/init.usb.rc:29)
+[32m[124314.652262] [33minit[0m: Sending signal 9 to service 'adbd' (pid 10739) process group...
+[32m[124314.654192] [33mdwc3 7000000.dwc3[31m: request 0000000000000000 was not queued to ep0out
+[32m[124314.657862] [33minit[0m: Successfully killed process cgroup uid 0 pid 10739 in 5ms
+[32m[124314.659536] [33minit[0m: Service 'adbd' (pid 10739) killed by signal 9
+[32m[124314.662357] [33minit[0m: processing action (init.svc.adbd=stopped) from (/init.usb.configfs.rc:15)
+[32m[124314.703279] [33minit[0m: processing action (sys.usb.config=mtp,adb) from (/vendor/etc/init/hw/init.mmi.usb.rc:438)
+[32m[124314.708234] [33minit[0m: starting service 'tcmd'...
+[32m[124314.709810] [33menable_store[31m: android_usb: already disabled
+[32m[124314.710557] [33minit[0m: starting service 'adbd'...
+[32m[124314.710571] [33minit[0m: Created socket '/dev/socket/local_tcmd', mode 660, user 9004, group 9004
+[32m[124314.711461] [33minit[0m: Created socket '/dev/socket/batch_socket', mode 600, user 9004, group 9004
+[32m[124314.711907] [33minit[31m: property_set("ro.boottime.adbd", "136778318625730") failed: property already set
+[32m[124314.712827] [33minit[0m: Created socket '/dev/socket/adbd', mode 660, user 1000, group 1000
+[32m[124314.722460] [0mread descriptors
+[32m[124314.722479] [0mread strings
+[32m[124314.722509] [0mmtp_bind_config
+[32m[124315.017644] [33mmsm-dwc3 7000000.ssusb[0m: Avail curr from USB = 0
+[32m[124315.018108] [33mandroid_work[0m: android_work: sent uevent USB_STATE=DISCONNECTED
+[32m[124315.122689] [33mFG[0m: fg_vbat_est_check: vbat(4358495),est-vbat(4363835),diff(5340),threshold(300000)
+[32m[124315.124057] [33mSX9310 ps notification[0m: event = 0
+[32m[124315.124066] [0mSX9310 usb is present
+[32m[124315.124070] [0mSX9310 ps present state not change
+[32m[124315.128385] [33mhealthd[0m: battery l=99 v=4358 t=30.2 h=2 st=2 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124315.130260] [33mandroid_work[0m: android_work: sent uevent USB_STATE=CONNECTED
+[32m[124315.133897] [33mandroid_work[0m: android_work: sent uevent USB_STATE=DISCONNECTED
+[32m[124315.135793] [33mhealthd[0m: battery l=99 v=4313 t=30.2 h=2 st=2 c=373 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124315.140222] [33mhealthd[0m: battery l=99 v=4313 t=30.2 h=2 st=2 c=373 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=
+[32m[124315.258110] [33mandroid_work[0m: android_work: sent uevent USB_STATE=CONNECTED
+[32m[124315.259463] [33mandroid_usb gadget[0m: high-speed config #1: 86000c8.android_usb
+[32m[124315.259602] [33mmsm-dwc3 7000000.ssusb[0m: Avail curr from USB = 500
+[32m[124315.310754] [33mandroid_work[0m: android_work: sent uevent USB_STATE=CONFIGURED
+[32m[124315.314182] [33mSX9310 ps notification[0m: event = 0
+[32m[124315.314195] [0mSX9310 usb is present
+[32m[124315.314200] [0mSX9310 ps present state not change
+[32m[124315.321863] [33mhealthd[0m: battery l=99 v=4313 t=30.2 h=2 st=2 c=373 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124315.331902] [33mhealthd[0m: battery l=99 v=4313 t=30.2 h=2 st=2 c=373 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124315.400214] [0mmtp_open
+[32m[124339.161138] [33mlogd[0m: logdr: UID=10044 GID=10044 PID=5743 n tail=0 logMask=4 pid=0 start=0ns timeout=0ns
+[32m[124345.840840] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124345.840866] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124345.840882] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124345.840884] [33m->action()[0m:           (null)
+[32m[124345.840886] [0mIRQ_NOPROBE set
+[32m[124345.840887] [0mIRQ_NOREQUEST set
+[32m[124345.840888] [0mIRQ_NOTHREAD set
+[32m[124345.917777] [0mmdss_dsi_panel_off[0]+.
+[32m[124346.011926] [33mevent_handler[0m: reclaimed all bufs
+[32m[124346.049235] [0mmdss_dsi_off[0]+.
+[32m[124346.072611] [33mactive wakeup source[0m: PowerManagerService.WakeLocks
+[32m[124346.072651] [33mactive wakeup source[0m: PowerManagerService.Display
+[32m[124346.072706] [33mactive wakeup source[0m: smbchg_wake
+[32m[124346.072711] [33mactive wakeup source[0m: 7000000.ssusb
+[32m[124346.632555] [33mi2c-msm-v2 7af5000.i2c[31m: NACK: slave not responding, ensure its powered: msgs(n:1 cur:0 tx) bc(rx:0 tx:4) mode:FIFO slv_addr:0x28 MSTR_STS:0x0d1300c8 OPER:0x00000090
+[32m[124366.080834] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124366.080880] [33msmbchg_heartbeat_work[0m: Step State = SECOND, BSW Mode OFF, EB State DISCONN
+[32m[124366.080934] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=1
+[32m[124366.108532] [33mhealthd[0m: battery l=99 v=4416 t=30.2 h=2 st=2 c=-407 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124375.328855] [33mhealthd[0m: battery l=99 v=4423 t=30.2 h=2 st=2 c=-458 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124376.103386] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124376.103401] [33msmbchg_heartbeat_work[0m: Step State = SECOND, BSW Mode OFF, EB State DISCONN
+[32m[124376.103417] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=1
+[32m[124376.117327] [33mhealthd[0m: battery l=99 v=4421 t=30.2 h=2 st=2 c=-432 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124386.133362] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124386.133407] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124386.133461] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124386.166628] [33mhealthd[0m: battery l=99 v=4421 t=30.2 h=2 st=2 c=-425 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124435.329880] [33mhealthd[0m: battery l=99 v=4421 t=30.7 h=2 st=2 c=-408 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124435.822736] [0mmdss_dsi_on[0]+.
+[32m[124435.869078] [0mmdss_dsi_panel_on[0]+.
+[32m[124435.969987] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124436.006517] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124439.781835] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124439.781885] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124439.781909] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124439.781915] [33m->action()[0m:           (null)
+[32m[124439.781919] [0mIRQ_NOPROBE set
+[32m[124439.781922] [0mIRQ_NOREQUEST set
+[32m[124439.781925] [0mIRQ_NOTHREAD set
+[32m[124439.798530] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124439.857551] [0mmdss_dsi_panel_off[0]+.
+[32m[124439.989630] [0mmdss_dsi_off[0]+.
+[32m[124443.162978] [0mmdss_dsi_on[0]+.
+[32m[124443.210517] [0mmdss_dsi_panel_on[0]+.
+[32m[124443.311763] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124443.348818] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124446.293305] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124446.293340] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124446.293385] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124446.325397] [33mhealthd[0m: battery l=99 v=4399 t=30.5 h=2 st=2 c=-212 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124447.125306] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124447.125354] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124447.125377] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124447.125383] [33m->action()[0m:           (null)
+[32m[124447.125387] [0mIRQ_NOPROBE set
+[32m[124447.125390] [0mIRQ_NOREQUEST set
+[32m[124447.125393] [0mIRQ_NOTHREAD set
+[32m[124447.143695] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124447.201564] [0mmdss_dsi_panel_off[0]+.
+[32m[124447.333680] [0mmdss_dsi_off[0]+.
+[32m[124495.330135] [33mhealthd[0m: battery l=99 v=4419 t=31.0 h=2 st=2 c=-365 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124506.456659] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124506.456704] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124506.456758] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124506.473038] [33mhealthd[0m: battery l=99 v=4417 t=30.2 h=2 st=2 c=-332 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124530.862022] [0mmdss_dsi_on[0]+.
+[32m[124530.909821] [0mmdss_dsi_panel_on[0]+.
+[32m[124531.010875] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[124531.047783] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[124534.824103] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[124534.824152] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[124534.824178] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[124534.824184] [33m->action()[0m:           (null)
+[32m[124534.824187] [0mIRQ_NOPROBE set
+[32m[124534.824190] [0mIRQ_NOREQUEST set
+[32m[124534.824193] [0mIRQ_NOTHREAD set
+[32m[124534.841248] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[124534.900704] [0mmdss_dsi_panel_off[0]+.
+[32m[124535.033304] [0mmdss_dsi_off[0]+.
+[32m[124555.330044] [33mhealthd[0m: battery l=100 v=4416 t=30.7 h=2 st=2 c=-321 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124566.616053] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124566.616097] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124566.616151] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124566.643546] [33mhealthd[0m: battery l=100 v=4415 t=30.7 h=2 st=2 c=-305 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124615.329501] [33mhealthd[0m: battery l=100 v=4415 t=30.7 h=2 st=2 c=-295 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124626.775799] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124626.775843] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124626.775897] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124626.801591] [33mhealthd[0m: battery l=100 v=4414 t=31.2 h=2 st=2 c=-274 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124639.425980] [33mlogd[0m: logdr: UID=10044 GID=10044 PID=5743 n tail=0 logMask=4 pid=0 start=0ns timeout=0ns
+[32m[124675.329726] [33mhealthd[0m: battery l=100 v=4414 t=31.0 h=2 st=2 c=-268 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124686.936651] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124686.936694] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124686.936748] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124686.957875] [33mhealthd[0m: battery l=100 v=4413 t=30.7 h=2 st=2 c=-255 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124735.330102] [33mhealthd[0m: battery l=100 v=4413 t=30.7 h=2 st=2 c=-247 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124747.094064] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124747.094109] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124747.094162] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124747.129575] [33mhealthd[0m: battery l=100 v=4412 t=30.7 h=2 st=2 c=-233 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124747.859030] [33mFG[0m: update_esr_value: ESR: update esr from 0x58cd4a6761c34a67 to 0x4120391f391f3019
+[32m[124747.866722] [33mhealthd[0m: battery l=100 v=4412 t=30.7 h=2 st=2 c=-233 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124747.878059] [33mhealthd[0m: battery l=100 v=4412 t=30.7 h=2 st=2 c=-233 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124795.330118] [33mhealthd[0m: battery l=100 v=4411 t=30.7 h=2 st=2 c=-229 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124807.253166] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124807.253204] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124807.253255] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124807.274976] [33mhealthd[0m: battery l=100 v=4411 t=31.0 h=2 st=2 c=-217 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124855.329967] [33mhealthd[0m: battery l=100 v=4411 t=30.7 h=2 st=2 c=-213 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124867.413908] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124867.413953] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124867.414007] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124867.438410] [33mhealthd[0m: battery l=100 v=4410 t=31.2 h=2 st=2 c=-202 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124885.780527] [33m[09:37:44.766208] [000002660560FADA] [VosMC]  wlan[31m: [E :PE ] Switching channel to 5
+[32m[124885.784652] [33m[09:37:44.770327] [0000026605623009] [VosMC]  wlan[31m: [E :PE ] limProcessSwitchChannelRsp: 4151: channelChangeReasonCode 2 status 0
+[32m[124915.330073] [33mhealthd[0m: battery l=100 v=4410 t=31.2 h=2 st=2 c=-196 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124927.573916] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124927.573959] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124927.574009] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124927.595682] [33mhealthd[0m: battery l=100 v=4409 t=31.2 h=2 st=2 c=-189 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124939.707220] [33mlogd[0m: logdr: UID=10044 GID=10044 PID=5743 n tail=0 logMask=4 pid=0 start=0ns timeout=0ns
+[32m[124975.329988] [33mhealthd[0m: battery l=100 v=4409 t=31.0 h=2 st=2 c=-180 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[124987.734127] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[124987.734171] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[124987.734225] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[124987.748739] [33mhealthd[0m: battery l=100 v=4409 t=30.7 h=2 st=2 c=-172 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125035.330071] [33mhealthd[0m: battery l=100 v=4408 t=30.7 h=2 st=2 c=-168 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125047.893521] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[125047.893565] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[125047.893619] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[125047.921988] [33mhealthd[0m: battery l=100 v=4408 t=31.0 h=2 st=2 c=-162 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125095.330094] [33mhealthd[0m: battery l=100 v=4408 t=30.7 h=2 st=2 c=-160 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125108.052950] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[125108.052992] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[125108.053047] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[125108.086515] [33mhealthd[0m: battery l=100 v=4407 t=30.7 h=2 st=2 c=-152 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125155.324620] [33mhealthd[0m: battery l=100 v=4408 t=31.0 h=2 st=2 c=-151 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125168.213916] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[125168.213960] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[125168.214012] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[125168.229345] [33mhealthd[0m: battery l=100 v=4407 t=30.7 h=2 st=2 c=-144 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125178.240673] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[125178.240715] [33msmbchg_heartbeat_work[0m: Step State = TAPER, BSW Mode OFF, EB State DISCONN
+[32m[125178.240768] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=10
+[32m[125178.253593] [33mhealthd[0m: battery l=100 v=4407 t=30.7 h=2 st=2 c=-143 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125185.859407] [33m[09:42:44.845130] [000002675CCAB7B8] [VosMC]  wlan[31m: [E :PE ] Switching channel to 5
+[32m[125185.862868] [33m[09:42:44.848587] [000002675CCBBB1F] [VosMC]  wlan[31m: [E :PE ] limProcessSwitchChannelRsp: 4151: channelChangeReasonCode 2 status 0
+[32m[125188.267026] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[125188.267072] [33msmbchg_heartbeat_work[0m: Step State = FULL, BSW Mode OFF, EB State DISCONN
+[32m[125188.267126] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=12
+[32m[125188.274426] [33mFG[0m: fg_vbat_est_check: vbat(4407322),est-vbat(4412663),diff(5341),threshold(300000)
+[32m[125188.280623] [33mhealthd[0m: battery l=100 v=4407 t=30.7 h=2 st=5 c=-140 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125188.304760] [33mhealthd[0m: battery l=100 v=4407 t=30.7 h=2 st=5 c=-140 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125215.329882] [33mhealthd[0m: battery l=100 v=4407 t=31.2 h=2 st=5 c=-140 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125239.962891] [33mlogd[0m: logdr: UID=10044 GID=10044 PID=5743 n tail=0 logMask=4 pid=0 start=0ns timeout=0ns
+[32m[125248.427557] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[125248.427601] [33msmbchg_heartbeat_work[0m: Step State = FULL, BSW Mode OFF, EB State DISCONN
+[32m[125248.427656] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=12
+[32m[125248.445635] [33mhealthd[0m: battery l=100 v=4388 t=31.2 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125275.329801] [33mhealthd[0m: battery l=100 v=4388 t=31.2 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125308.589925] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[125308.589967] [33msmbchg_heartbeat_work[0m: Step State = FULL, BSW Mode OFF, EB State DISCONN
+[32m[125308.590022] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=12
+[32m[125308.606712] [33mhealthd[0m: battery l=100 v=4387 t=31.2 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125316.999051] [33mhealthd[0m: battery l=100 v=4387 t=31.2 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125317.009226] [33mhealthd[0m: battery l=100 v=4387 t=31.2 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125335.329397] [33mhealthd[0m: battery l=100 v=4387 t=30.7 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125368.749877] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[125368.749923] [33msmbchg_heartbeat_work[0m: Step State = FULL, BSW Mode OFF, EB State DISCONN
+[32m[125368.749976] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=12
+[32m[125368.769280] [33mhealthd[0m: battery l=100 v=4387 t=30.7 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125395.329660] [33mhealthd[0m: battery l=100 v=4387 t=30.7 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125400.151623] [0mmdss_dsi_on[0]+.
+[32m[125400.198135] [0mmdss_dsi_panel_on[0]+.
+[32m[125400.299030] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[125400.335225] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[125400.850730] [33mReport pwrkey press event at[0m: 2018-07-07 13:46:19 UTC
+[32m[125400.935812] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[125400.983521] [33mi2c-msm-v2 7af5000.i2c[31m: NACK: slave not responding, ensure its powered: msgs(n:1 cur:0 tx) bc(rx:0 tx:4) mode:FIFO slv_addr:0x28 MSTR_STS:0x0d1300c8 OPER:0x00000090
+[32m[125400.985884] [33mReport pwrkey release event at[0m: 2018-07-07 13:46:19 UTC
+[32m[125403.398242] [33mRequested rate[0m: 48000, sample size: 16, physical size: 16
+[32m[125403.398259] [0mmixer profile:container profile = [0:0]
+[32m[125403.407165] [33mi2c-msm-v2 7af5000.i2c[31m: NACK: slave not responding, ensure its powered: msgs(n:1 cur:0 tx) bc(rx:0 tx:4) mode:FIFO slv_addr:0x28 MSTR_STS:0x0d1300c8 OPER:0x00000090
+[32m[125403.412317] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 0
+[32m[125403.413091] [0mActive_profile:speaker, next_profile:speaker
+[32m[125403.413651] [0mStartup of device [Q] is a warmstart
+[32m[125403.417092] [33mRequested rate[0m: 48000, sample size: 16, physical size: 16
+[32m[125403.417104] [0mmixer profile:container profile = [0:0]
+[32m[125403.425513] [33mtfa98xx 2-0034[0m: tfa_dev_start success (0)
+[32m[125403.434831] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 0
+[32m[125403.435349] [33mtfa98xx 2-0034[31m: tfa98xx_adsp_send_calib_values: cal value 0x71a1c
+[32m[125406.638739] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 1
+[32m[125406.685610] [33mtfa98xx 2-0034[0m: tfa98xx_mute: state: 1
+[32m[125428.909240] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[125428.909283] [33msmbchg_heartbeat_work[0m: Step State = FULL, BSW Mode OFF, EB State DISCONN
+[32m[125428.909335] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=12
+[32m[125428.921675] [33mhealthd[0m: battery l=100 v=4386 t=30.7 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125428.979727] [33mlogd[0m: logdr: UID=0 GID=0 PID=13561 b tail=0 logMask=19 pid=0 start=0ns timeout=0ns
+[32m[125433.166716] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[125433.166733] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[125433.166743] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[125433.166745] [33m->action()[0m:           (null)
+[32m[125433.166747] [0mIRQ_NOPROBE set
+[32m[125433.166748] [0mIRQ_NOREQUEST set
+[32m[125433.166749] [0mIRQ_NOTHREAD set
+[32m[125433.240521] [0mmdss_dsi_panel_off[0]+.
+[32m[125433.331813] [33mevent_handler[0m: reclaimed all bufs
+[32m[125433.371323] [0mmdss_dsi_off[0]+.
+[32m[125433.930756] [33mi2c-msm-v2 7af5000.i2c[31m: NACK: slave not responding, ensure its powered: msgs(n:1 cur:0 tx) bc(rx:0 tx:4) mode:FIFO slv_addr:0x28 MSTR_STS:0x0d1300c8 OPER:0x00000090
+[32m[125455.329914] [33mhealthd[0m: battery l=100 v=4386 t=30.7 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125489.069824] [33msmbchg_heartbeat_work[0m: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+[32m[125489.069870] [33msmbchg_heartbeat_work[0m: Step State = FULL, BSW Mode OFF, EB State DISCONN
+[32m[125489.069924] [33msmbchg_check_zone_temp_state[0m: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=12
+[32m[125489.092133] [33mhealthd[0m: battery l=100 v=4386 t=31.0 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[32m[125492.454853] [0mmdss_dsi_on[0]+.
+[32m[125492.501855] [0mmdss_dsi_panel_on[0]+.
+[32m[125492.602842] [0mmdss_dsi_panel_on[0]-. Pwr_mode(0x0A) = 0x9c
+[32m[125492.639151] [33mmdss_fb_set_hw_param[0m: CABC = MV
+[32m[125496.424110] [33mirq 6, desc[0m: ffffffc0dd2b3200, depth: 0, count: 0, unhandled: 0
+[32m[125496.424143] [33m->handle_irq()[0m:  ffffffc0003a5878, msm_gpio_irq_handler+0x0/0x17c
+[32m[125496.424161] [33m->irq_data.chip()[0m: ffffffc001eacfe0, gic_chip+0x0/0xe8
+[32m[125496.424166] [33m->action()[0m:           (null)
+[32m[125496.424169] [0mIRQ_NOPROBE set
+[32m[125496.424171] [0mIRQ_NOREQUEST set
+[32m[125496.424174] [0mIRQ_NOTHREAD set
+[32m[125496.448293] [33mmdss_fb_set_hw_param[0m: CABC = UI
+[32m[125496.497607] [0mmdss_dsi_panel_off[0]+.
+[32m[125496.629986] [0mmdss_dsi_off[0]+.
+[32m[125515.329429] [33mhealthd[0m: battery l=100 v=4386 t=30.7 h=2 st=5 c=0 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+[0m

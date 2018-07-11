@@ -1,0 +1,27 @@
+<7>[126024.148727,0] tfa98xx 2-0034: tfa98xx_mute: state: 1
+<3>[126025.100457,5] msm_camera_power_down error power seq type -1
+<6>[126025.147056,4] msm_pm_qos_update_request: update request 100
+<6>[126025.152387,4] msm_csid_init: CSID_VERSION = 0x30050001
+<3>[126025.153439,0] msm_csid_irq CSID1_IRQ_STATUS_ADDR = 0x800
+<6>[126025.175607,7] msm_pm_qos_update_request: update request -1
+<6>[126025.185661,7] msm_cci_init:1434: hw_version = 0x10020005
+<6>[126026.822499,7] msm_pm_qos_update_request: update request 100
+<6>[126026.826025,7] msm_csid_init: CSID_VERSION = 0x30050001
+<6>[126026.832567,4] MSM-CPP cpp_init_hardware:1005 CPP HW Version: 0x40030003
+<3>[126026.832585,4] MSM-CPP cpp_init_hardware:1023 stream_cnt:0
+<6>[126026.849135,7] msm_pm_qos_update_request: update request -1
+<3>[126026.855790,7] msm_camera_power_up error power seq type -1
+<6>[126026.855952,7] msm_cci_init:1434: hw_version = 0x10020005
+<3>[126026.913214,6] msm_csid_irq CSID0_IRQ_STATUS_ADDR = 0x800
+<12>[126027.766347,4] healthd: battery l=100 v=4380 t=31.7 h=2 st=5 c=21 fc=3042000 cc=0 ml=-1 mst=1 mf=0 mt=0 mps=0 chg=u
+<3>[126028.241238,7] msm_camera_power_down error power seq type -1
+<6>[126028.283116,5] msm_pm_qos_update_request: update request 100
+<6>[126028.291873,5] msm_csid_init: CSID_VERSION = 0x30050001
+<3>[126028.292715,7] msm_csid_irq CSID1_IRQ_STATUS_ADDR = 0x800
+<6>[126028.297156,4] MSM-CPP cpp_init_hardware:1005 CPP HW Version: 0x40030003
+<3>[126028.297173,4] MSM-CPP cpp_init_hardware:1023 stream_cnt:0
+<3>[126028.382797,7] msm_csid_irq CSID1_IRQ_STATUS_ADDR = 0x800
+<4>[126030.507568,7] smbchg_heartbeat_work: EB Input 0 mA, PMI Input 500 mA, USBC CL 500 mA, DC 900 mA
+<4>[126030.507599,7] smbchg_heartbeat_work: Step State = FULL, BSW Mode OFF, EB State DISCONN
+<4>[126030.507643,7] smbchg_check_zone_temp_state: temp_zone:temp= Good,zone=3, zone_fcc=2000,stepchg=12
+<6>[126036.451287,4] Report pwrkey press event at: 2018-07-07 13:56:55 UTC
